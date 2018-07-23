@@ -1,0 +1,13 @@
+from cloudshell.workflow.orchestration.sandbox import Sandbox
+from cloudshell.workflow.orchestration.setup.default_setup_orchestrator import DefaultSetupWorkflow
+import blueprint_commands
+
+
+sandbox = Sandbox()
+
+DefaultSetupWorkflow().register(sandbox)
+sandbox.workflow.add_to_preparation(blueprint_commands.write_a_message_to_output)
+sandbox.workflow.add_to_provisioning(blueprint_commands.write_a_message_to_output)
+sandbox.workflow.add_to_preparation(blueprint_commands.write_a_message_to_output)
+sandbox.workflow.add_to_configuration(blueprint_commands.write_a_message_to_output)
+sandbox.execute_setup()

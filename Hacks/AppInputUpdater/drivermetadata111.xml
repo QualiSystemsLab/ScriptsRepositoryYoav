@@ -1,0 +1,15 @@
+<Driver Name="inputUpdaterAA" Version="1.0.0" MainClass="inputUpdater.InputUpdater" Description="driver description">
+  <Layout>
+      <Category Name="aa">
+            <Command Name="change_app_input_value" DisplayName="change App Input Value" Description="Description">
+                <Parameters>
+                <Parameter Name="AppName" Type="String" Mandatory = "False" DefaultValue="1" DisplayName="App Name" Description="Please specify a value here"/>
+                <Parameter Name="AppModel" Type="String" Mandatory = "False" DefaultValue="2" DisplayName="App Model" Description="Please specify a value here"/>
+                <Parameter Name="DeployModel" Type="String" Mandatory = "False" DefaultValue="3" DisplayName="Deploy Model" Description="Please specify a value here"/>
+                <Parameter Name="attr_name" Type="String" Mandatory = "False" DefaultValue="3" DisplayName="Attribute Name" Description="Please specify a value here"/>
+                <Parameter Name="attr_value" Type="String" Mandatory = "False" DefaultValue="3" DisplayName="Attribute Value" Description="Please specify a value here"/>
+                </Parameters>
+            </Command>
+      </Category>
+  </Layout>
+</Driver>

@@ -1,0 +1,9 @@
+---
+- hosts: all
+  gather_facts: no
+  vars:
+  - local_a: "{{a}}"
+  tasks:
+  - name: Write this to file
+    debug: msg="var is {{local_a}}"
+

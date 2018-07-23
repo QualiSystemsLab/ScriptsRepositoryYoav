@@ -1,0 +1,1505 @@
+CHANGES
+=======
+
+* Fix issue #55
+* DMS v2: support tag list in consume message API
+* Fix compute server properties issue in mail from Qianbiao.NG
+* duplicate vbs get job api from v1 to v2
+* duplicate vbs get job api from v1 to v2
+* Fix issue #53
+* Fix issue #50
+* dms: Adapt to new queue create API
+* Antiddos: Fix floating ip update & query\_task\_status
+* Fix issue #50
+* RDS/RDS\_OS share same endpoint
+* Cleanup pep8 error in examples/sample.py
+* Add more examples for rds os service
+* OTC env changed
+* Fix: smn direct\_publish example
+* rename to sample
+* Adapt to new version of maas service
+* Fix KMS marker
+* OTC env changed
+* OTC env changed
+* dns endpoint is not required
+* typo
+* typo
+* add toturial
+* Cleanup py27 and pep8
+* add toturial
+* Fix some pep8 issue in examples
+* issue: #IF8I9 add hash to plain\_text
+* Remove \*\* from test case example
+* SMN: add examples
+* SMN: Add examples for xxx
+* DTS: Add example for how to use quotas
+* DMS: Fix Messconsume issue when do list
+* Issue AntiDDoS: Add missing service
+* Issue #IF3HQ: Add task id filed
+* SMN: Add request\_id to topic\_attr resource
+* Issue #IF2QI: fix example update\_floating\_ip
+* SMN fix: Don't update attributes\_name for update
+* Add direct\_publish sms
+* Issue IELXI: Return bool for task actions
+* Issue IELWB: Add header in mass get/delete
+* Issue 4: Fix task empty task action in mass
+* Issue 3: Remove agent API from mass service
+* Issue 3: Fix comments in tasks SDK
+* Docs: Append rds\_os service to rds doc
+* rds proxy: Move all rds\_os proxy method to rds
+* Hack rds and rds\_os service endpoint
+* Fix doc error
+* Add rds os docs
+* add rds docs
+* Add doc for kms
+* Add docs for dms
+* Add doc for cts
+* Add doc for smn
+* Add docs for Anti-DDos
+* Add docs for maas
+* add rds os service
+* init rds
+* Add kms SDK
+* add dms
+* Add cts sdks
+* init smn
+* init maas
+* Suport antiddos service
+* code clean
+* fix issue #35 #36
+* fix issue #27
+* fix issue #26
+* fix issue #26
+* fix issue #26
+* sphinx document sample
+* sphinx document sample
+* Fix update request send id in request body issue #19
+* Fix update request send id in request body issue #19
+* trigger list activity run
+* comments of certificate
+* openstack code pep8 init file clean
+* openstack code pep8 init file clean
+* openstack code pep8 init file clean
+* openstack code pep8 init file clean
+* pep8 clean
+* issue #9
+* add cloud eye quotas func test, issue #11
+* typo, issue #13
+* upgrade MRS documentation
+* finish MRS compatibility API
+* upgrade MRS documentation
+* upgrade MRS documentation
+* upgrade MRS documentation
+* upgrade MRS documentation
+* auto scaling group available zone field error
+* make pagination support page\_size+current\_page..
+* MapReduce job exe API
+* DNS functional tests
+* HuaWei Error response mapping compatibility
+* delete temp file
+* dns unittest missing issue #3
+* cloud-eye unittests improve
+* fix issue #2 , :( naming typo
+* MRS native API
+* MRS data-source functional test
+* fix content-type for MRS
+* async volume backup create missing prop
+* svn2git: volume backup documentation
+* svn2git: english API usage for ELB
+* svn2git: load balancer quota typo
+* svn2git: load balancer quota typo
+* svn2git: load balancer library
+* svn2git: load balancer library
+* svn 2 git, vbs unittest fixes
+* svn 2 git, vbs unittest fixes
+* Volume Backup library
+* AutoScaling library implement finished
+* Volume Backup library
+* make format de/serialize skip when value type is expected
+* improve resource2 body dirty logic
+* finish contribute documentation
+* add contribute docs
+* AutoScaling library implement finished
+* add zh-cn ces documetation
+* translate document for zh-cn
+* finish auto-scaling unittests
+* AutoScaling library implement
+* CloudEye library examples
+* AutoScaling library implement
+* add auto-scaling config unittests
+* finish CES unittests
+* sync svn code to github
+* CloudEye library implement
+* fix unittests
+* DNS library implement
+* DNS library implement
+* DNS library implement
+* load balancer initial
+* load balancer initial
+* document upgrade
+* fix typo
+* update document structure
+* docsify initial
+* docsify initial
+* endpoint override feature for services
+* Fix update\_image unsupported media type
+* Remove support for py34
+* Updated from global requirements
+* Fix py3 compatibility (dict.iteritems()) in object\_store
+* Add new parameter "is\_default" to Network QoS policy
+* Get endpoint versions with domain scope session
+* Use https instead of http in cluster examples
+* Specify alternate\_id in network quota
+* Updated from global requirements
+* Add direction field to QoS bandwidth limit
+* Updated from global requirements
+* Fix document warnings
+* functional tests: minor cleanup
+* Port unversioned Version resources to resource2
+* Port metric v1 to resource2
+
+0.9.16
+------
+
+* Deprecate Message v1
+* Port image v1 to resource2
+* Port identity v2 to resource2
+* Port database v1 to resource2
+* Correct Network \`ports\` query parameters
+* Add data plane status support to Network Port obj
+* Revert "HAProxy uses milliseconds ..."
+* Allow router related functions to receive an ID
+
+0.9.15
+------
+
+* Enable warnings\_as\_errors in doc enforcer
+* Add is\_profile\_only to Cluster resource
+* Add docs for volume\_attachment compute methods
+* Add support for volume attachments in compute v2
+* Updated from global requirements
+* Add 'project\_id' to Server query parameters
+* Clean up some errant doc warnings/errors
+* Add get\_stack\_\* methods to documentation
+* Introduce Base for Octavia (load balancing)
+* Fix doc build if git is absent
+* Add vlan\_transparent property to network resource
+* Filtering support by is\_router\_external to network resource
+* Find floating ip by ip address
+* Add StackFiles resource to orchestration v1
+* Expose ha\_state property from HA enabled L3 Agents
+* Remove type restrict of block\_device\_mapping
+* Add StackEnvironment resource to orchestration v1
+* Shift some compute attributes within request body
+* StackTemplate resource for orchestration
+* Trivial: fix Template resource in orchestration
+* Avoid imports in openstack/\_\_init\_\_.py
+* Expose OS-EXT-SRV-ATTR:{hypervisor\_hostname,instance\_name} for Server
+* Add port property: trunk\_details
+* Add image download example
+* Fix the network flavor disassociate method
+* Fix the telemetry statistics test
+* Correct a copy/paste mistake in a docstring
+* Fix the telemetry sample test
+* Fix network quota test so it works on gate
+* Enable streaming responses in download\_image
+* Updated from global requirements
+* Update devstack config to point to a valid image
+* Add wait\_for\_xxx methods to cluster proxy
+* Change version of hacking in test-requirements
+* Reorganize cluster docs
+* Reorganize object\_store docs
+* Reorganize workflow docs
+* Reorganize network docs
+* Reorganize telemetry docs
+* Reorganize block store docs
+
+0.9.14
+------
+
+* Add missing attribute to Subnet resource
+* keystone api v2.0 does not paginate roles or users
+* the role resource should not have put\_create=True
+* Fix the object store set metadata functional test
+* Remove unsupported telemetry create\_sample method
+* Add network flavor associate, disassociate to SDK
+* Fix problem with update including id
+* Support profile-only to cluster update
+* Fix the network auto allocate validate
+* Remove old telemetry capability
+* Remove unnecessary get\_id call in \_prepare\_request
+* Fix the network floating ip test for get
+* Fix the network service provider test
+* Fix the network quota tests
+* Fix the service profile meta info test
+* Fix the agent add remove test
+* Fix the nextwork agent add remove test
+* Update the image used for functional tests
+* Implement metric docs
+* Fix function test for compute images
+* Reorganize orchestration docs
+* Implement message docs
+* Reorganize key\_manager docs
+* Reorganize identity docs
+* Reorganize image docs
+* Reorganize database docs
+* Reorganize compute docs
+* Update intersphinx linking to python.org
+* Reorganize bare\_metal docs
+* Privatize session instance on Proxy subclasses
+* Deprecate "wait\_for" methods on ProxyBase
+* Remove two remaining doc warnings
+* Deprecate port and ping methods in Network proxy
+* Updated from global requirements
+* Enforce inclusion of pulic proxy methods in docs
+* Updated from global requirements
+* Cleanup more Sphinx warnings during doc build
+* Adjust some proxy method names in bare\_metal
+* Adjust some proxy method names in cluster
+* Added project role assignment
+* Cleanup various Sphinx warnings during doc build
+* Fix exception parsing error
+* Add 'tags' property to orchestration stack
+
+0.9.13
+------
+
+* Add docs for the workflow service
+* Initial docs for bare-metal service
+* Fix error messages are not displayed correctly
+* Add project ID in QuotaDefault requests
+* Fix Setting Quotas in Neutron
+* Updated from global requirements
+* Modified DHCP/Network Resource
+* Network L3 Router Commands
+* Corrections in DHCP Agent Resource listing
+* Updated from global requirements
+* Add workflow service (mistral)
+* Add cluster\_operation and node\_operation
+* Add support\_status to policy type and profile type
+
+0.9.12
+------
+
+* Add missing query parameters to compute v2 Server
+* Add support for Role resource in Identity v3
+* Remove unnecessary coding format in the head of files
+* Add filter "user\_id" for cluster receiver list
+* Add params to ClusterDelNodes action
+* Remove discover from test-requirements
+* Add user\_id in resource class Action/Node
+* Enable bare-metal service
+* Proxy module for bare-metal service
+* Base for workflow service (mistral)
+* Port resource for bare-metal service
+* PortGroup resource for bare-metal service
+* Updated from global requirements
+* Add user\_id in resource class Policy
+* Node resource for bare-metal service
+* Chassis resource for bare-metal service
+* Driver resource for bare-metal service
+* Support for node replace in cluster service
+
+0.9.11
+------
+
+* Rebase network proxy to proxy2
+* Rebase network resources to resource2 (4)
+* Rebase network resources to resource2 (3)
+* Add 'project\_id' field to volume resource
+* Rebase network resources onto resource2 (2)
+* Rebase network resources onto resource2 (1)
+* Add more server operations based on Nova API
+* Add user\_id in profile resource
+* Add filters to the network proxy agents() method
+* Add auto-allocated-topology to SDK
+* Updated from global requirements
+* Document the \`synchronized\` parameter
+* Add 'project\_id' field to cluster's action resource
+* Add QoS support to Network object
+
+0.9.10
+------
+
+* Revert "Display neutron api error message more precisely"
+* Updated from global requirements
+* Add resource for DHCP Agent
+* Add "sort" in policy binding list
+* Add filters "policy\_type" and "policy\_name" for policy binding list
+* Add filters to the router proxy routers() method
+
+0.9.9
+-----
+
+* Add support for network Service Flavor Profile
+* Add filter "enabled" for cluster-policy-list
+* Add resources for Service Provider
+* Fix metadata property of Senlin node resource
+* Display neutron api error message more precisely
+* Add list method and query support for cinder volume and snapshot
+* Add Python 3.5 classifier and venv
+* Add filter options to the network proxy address\_scopes() method()
+* Updated from global requirements
+* Add filters provider-\* to the network proxy networks() method
+* Support to delete claimed message
+* Fix problem about location header in Zaqar resource2
+* Updated from global requirements
+* Add filter mac\_address to the network proxy ports() method
+* Add dns-domain support to Network object
+* Prepare for baremetal API implementation
+* Updated from global requirements
+* Add reset\_state api for compute
+* Add limit and marker to QueryParameters class
+* Updated from global requirements
+* Document network resource query filters used by OSC
+* Add standard attributes to the core network resources
+* Add service\_type resource to Subnets
+
+0.9.8
+-----
+
+* avoid usage of keystoneauth1 sessions
+* Clarify argparse connections
+* Updated from global requirements
+* Add support for network Flavor
+* Remove dead code
+* Provide better fallback when finding id values
+* Updated from global requirements
+* Remove beta label for network segment resource
+* Add support for filter "status" in node list
+* Modified Metering Rule base\_path
+* Update homepage with developer documentation page
+* Modified Metering base\_path
+* Updated from global requirements
+* Added is\_shared resource to Metering Label
+* Add QoS support to Network Port object
+
+0.9.7
+-----
+
+* Revert "Event list can not display "timestamp"
+* Generalize endpoint determination
+* Event list can not display "timestamp"
+* Add project\_id field to cluster's policy and profile
+* Fix the issue non-admin user failed to list trusts
+* Fix error in node action
+* compute/v2/server: add ?all\_tenants=bool to list
+
+0.9.6
+-----
+
+* Add extended Glance Image properties
+* Fix connection init when session is provided
+* Rebase keystone v3 proxy to proxy2
+* Fix 'config\_drive' and 'networks' for compute server
+* Fix cluster query mapping
+* Rebase keystone resources onto resource2
+* Add new function for router-gateway
+* Obtain Image checksum via additional GET
+* Adjust router add/remove interface method names
+* Add 'dependents' property to Node and Cluster class
+* Add QoS rule type object and CRUD commands
+* Add QoS bandwidth limit rule object and CRUD commands
+* Add QoS DSCP marking rule object and CRUD commands
+* Add QoS minimum bandwidth rule object and CRUD commands
+* Add network segment create, delete and update support
+* Rebase telemetry resources to resource2/proxy2
+* Fix telemetry/metering service version
+* Fix the issue that 'type' field is missing in profile list
+
+0.9.5
+-----
+
+* Updated from global requirements
+* Fix issue "SDKException: Connection failure that may be retried."
+* Updated from global requirements
+
+0.9.4
+-----
+
+* Refactor Key Manager for resource2
+* Fix problems about location header in resource2
+* Add support for claim for Zaqar V2 API
+
+0.9.3
+-----
+
+* Add support for subscription for Zaqar V2 API
+* Add policy validation for senlin
+* Add profile validation for senlin
+* Add QoS policy object and CRUD commands
+* Updated from global requirements
+* Fix orchestration service initialization
+* Minor network RBAC policy updates
+* Add 'check\_stack' operation to proxy
+* Tweak endpoint discovery for apache-style services
+
+0.9.2
+-----
+
+* Add template validation support to orchestration
+* Add SoftwareDeployment resource to orchestration
+* Add SoftwareConfig resource to orchestration
+* Rebase orchestration to resource2/proxy2
+* Relocate alarm service into a submodule
+* Get endpoints directly from services
+* Add force-delete into compute service
+* Add services operations into compute service
+* Fix nova server image and flavor
+* Add support for message resource of Zaqar v2 API
+* Add support for Zaqar V2 queue resource
+* Add collect\_cluster\_attrs API to cluster service
+* Updated from global requirements
+* Fix cluster resource in cluster service
+* Add API microversion support
+* Updated from global requirements
+* Refactor image v2 to use resource2/proxy2
+
+0.9.1
+-----
+
+* Rebase cluster service to resource2/proxy2
+* Improve docstring for some resource2 methods
+* Add 'to\_dict()' method to resource2.Resource
+* \_alternate\_id should return a server-side name
+* Make end-user modules accessible from top level
+* Updated from global requirements
+* Replace \_transpose\_component with \_filter\_component
+* Fix test\_limits functional test failure
+* Remove update\_flavor method from compute
+* Expose 'requires\_id' to get\_xxx proxy functions
+* Updated from global requirements
+* HAProxy uses milliseconds for its timeout values
+* Support fetching network project default quota
+
+0.9.0
+-----
+
+* Refactor compute for new resource/proxy
+* Allow alternate\_id to be accessed directly
+* Add neutron rbac support
+* Updated from global requirements
+* Updated from global requirements
+* Add temporary test\_proxy\_base2
+* Add segment\_id property to subnet resource
+* Allow resources to check their equality
+* Remove type=timestamp usages
+* Cluster user guide - part 2
+* Move version definition
+* Updated from global requirements
+* Updated from global requirements
+* Fix clustering event properties
+* Updated from global requirements
+* Updated from global requirements
+* Updated from global requirements
+
+0.8.6
+-----
+
+* Implement network agents
+* Updated from global requirements
+* Remove data type enforcement on fields (cluster)
+* Add network segment resource
+* Updated from global requirements
+* Set name\_attribute on NetworkIPAvailability
+* Remove update\_trust method from identity
+* Updated from global requirements
+* [Trivial] Remove executable privilege of doc/source/conf.py
+* Remove openstack/common from tox.ini
+* Add support for Network IP Availability
+* Fix Resource.list usage of limit and marker params
+* Updated from global requirements
+* Don't hide cacert when insecure == False
+
+0.8.5
+-----
+
+* Trivial: Fix typo in update\_port() comment
+* Support <scheme>://<netloc>/<prefix> endpoints
+* Use fixtures.TempDir
+* Use fixtures.EnvironmentVariable
+* Support client certificate/key
+* Add network resource properties
+* Updated from global requirements
+* Properly handle overridden Body properties
+
+0.8.4
+-----
+
+* BaseProxy refactoring for new Resource
+* Refactor Resource to better serve Proxy
+
+0.8.3
+-----
+
+* Consistent resource.prop for timestamps and booleans (cluster)
+* Add address scope CRUD
+* Consistent resource.prop for timestamps and booleans (object store)
+* Consistent resource.prop for timestamps and booleans (network)
+* Fix serialize BoolStr formatter
+* Consistent resource.prop for timestamps and booleans (identity)
+* Cluster user guide - first step
+* Consistent resource.prop for timestamps and booleans (orchestration)
+
+0.8.2
+-----
+
+* Consistent resource.prop for timestamps and booleans (telemetry)
+* Fix image member apis
+* Fix content-type for swift upload
+* Fix key manager secret resource object
+* Consistent resource.prop for timestamps and booleans (key manager)
+* Consistent resource.prop for timestamps and booleans (image)
+* Make metadata handling consistent in Compute
+* Fix coverage configuration and execution
+* Consistent resource.prop for timestamps and booleans (compute)
+* Fix functional tests
+* Add/Remove port interface to a router
+* Consistent resource.prop for timestamps and booleans (block store)
+* Consistent resource.prop for timestamps and booleans (metric)
+
+0.8.1
+-----
+
+* Add Hypervisor support to Compute Service
+
+0.8.0
+-----
+
+* Add Nova server group resource
+* Remove pool\_id attr from creation request body of pool\_member
+* Make metadata handling consistent in Object Store
+* Updated from global requirements
+* Override delete function of senlin cluster/node
+* Basic resource.prop for ID attributes (message)
+* Basic resource.prop for ID attributes (cluster)
+* Adding Check/Recover Actions to Clusters
+* Basic resource.prop for ID attributes (block store)
+* Basic resource.prop for ID attributes (orchestration)
+* Fix compute tests for resource.prop ID attributes
+* Basic resource.prop for ID attributes (compute)
+* Basic resource.prop for ID attributes (image)
+* Basic resource.prop for ID attributes (identity)
+* Basic resource.prop for ID attributes (telemetry)
+* Update attributes uses hard coded id
+* Adding check/recover actions to cluster nodes
+* Basic resource.prop for ID attributes (network)
+* Remove 'date' from Object resource
+* Make functional test resources configurable
+* Fix Port resource properties
+* Refactor profile set\_ methods
+* Add UNIXEpoch formatter as a type for properties
+* Update create\_network function in test\_network
+
+0.7.4
+-----
+
+* Documentation for cluster API and resources
+* Resource object attributes not updated on some interfaces
+* Add ISO8601 formatter as a type for properties
+* Add LoadBalancer vip\_port\_id and provider properties
+* Raise NotFound exception when get a deleted stack
+* Updated from global requirements
+* download\_object/get\_object must have the same API
+* Map KSA exception to SDK exceptions
+* Fix URLs for CLI Reference
+* Updated from global requirements
+* Send keystoneauth a better user-agent string
+* Add network availability zone support
+* Allow resource get to carry query string
+* Rework cluster API
+* Skip test class unless a service exists
+* Add attribute 'location' to base resource
+* Add preview\_stack for orchestration
+* Update Quota documentation and properties
+* Update Subnet Pools Documentation
+* Update router's functional tests to validate is\_ha property
+* Fix create\_pool\_member and update\_pool\_member
+* Updated from global requirements
+* Use assertTrue/False instead of assertEqual(T/F)
+* Remove status property from LBaaS resources
+* Add functional tests for DVR router
+* Add missing Listener resource properties
+* Better support for metadata in Compute service
+* Add image user guide
+* s/save/download/
+* Replace assertTrue(isinstance()) with assertIsInstance()
+* Replace assertEqual(None, \*) with assertIsNone in tests
+* Add support for availability zone request
+* Add proxy methods for node actions (cluster)
+* Rename timestamp fields for cluster service
+* Add cluster actions to cluster proxy
+* Fix docstring of resource\_id parameter in resource module
+* Fix server action resource call
+* Correct response value in resource unittests
+* Raise not found error if stack is deleted when find\_stack
+* Add Receiver resource to cluster service
+* Add Subnet Pool CRUD
+* remove python 2.6 trove classifier
+* Add Quota RUD and missing properties
+* Add 'resize' action to cluster
+* Return None when getting an attr which is None when using resource.prop()
+* Add Network mtu and port\_security\_enabled properties
+* Support block\_store types where IDs are taken
+* Remove requests from requirements
+* cluster: Use typed props instead of \*\_id
+* Updated from global requirements
+* Rename key\_management to key\_manager
+* Replace 'value' arguments in telemetry proxy
+* Add Port port\_security\_enabled property
+* Replace 'value' arguments in orchestration proxy
+* Replace 'value' arguments in object\_store proxy
+* Replace 'value' arguments in network proxy
+
+0.7.3
+-----
+
+* Replace 'value' arguments in key\_management proxies
+* Replace 'value' arguments in image proxies
+* Fix exceptions to catch for ignore\_missing
+* Updated from global requirements
+* Add admonition to telemetry code
+* Add Router ha, distributed and routes properties
+* Fix "report a bug" launchpad project
+* Add PolicyType resource for clustering
+* Add 'ProfileType' resource for senlin
+* block\_store and cluster: replace 'value' arguments
+* Add cluster-policy binding resource to Senlin
+* Skip orchestration functional tests
+* Replace 'value' arguments in identity proxies
+* Replace 'value' arguments in database proxy
+* Replace 'value' arguments in compute proxy
+
+0.7.2
+-----
+
+* Update doc link in README
+* Remove oslosphinx
+* Skip broken functional tests
+* Delete key pair and server for Compute example
+* Fix 400 error in compute examples
+* Fix post test hook script
+* Remove the Metric proxy
+* Remove an extra dangling doc reference to CDN
+* Remove incomplete CDN code
+* Fix failing compute example
+* Updated from global requirements
+* Updated from global requirements
+* Add identity user guide
+* Doc: Add instructions for creating cloud.yaml
+* Replace stackforge with openstack
+* Add BuildInfo resource to cluster service
+* Updated from global requirements
+* Add network user guide
+* Add authorize method to Connection
+* Avoid Pool object creating in pool\_member functional calls
+* Fix cluster action api invocations
+* Add rebuild\_server function call
+* Replace 'MagicMock' with 'Mock'
+* Updated from global requirements
+* Trivial: Fix a typo in resource.py
+* Add server resize function calls
+* Make nova server\_interface function calls work
+* Fix typo in action test case
+* Add event resource for senlin(cluster) service
+* Remove missing capability
+* Remove some dead exception types
+* Fix senlin update verb
+* Replace 'MagicMock' with 'Mock'
+* Publicize the \_convert\_id call of Resource class
+* Try running examples tests on gate
+* Add documentation for testing examples
+* Cleanup doc references to past modules
+* Use consistent argument names for find proxies
+* find\_security\_group\_rule does not find by name
+* Updates doc enviro to use OpenStack Docs theme
+
+0.7.1
+-----
+
+* Set "password" as default auth plugin
+* Add find support to BaseProxy
+
+0.7.0
+-----
+
+* Do not allow security group rule update
+* Keystone auth integration
+* Refactor os-client-config usage in from\_config
+* Updated from global requirements
+* Updated from global requirements
+* Create Key Pair
+* Support ignore\_missing in find\_pool\_member method
+* Adjust image v1 to use upload instead of create
+* Adjust object\_store to use upload/download names
+* Fix server.action does not work
+* Remove the example code that mimics a CLI
+* Updated from global requirements
+* A better create server example
+* Support to Profile resource for cluster service
+* Add node resource for cluster service
+* Add action resource for cluster service
+* Add policy resource for cluster service
+* Fix typos in docstrings:
+* s/stackforge/openstack/
+* Update .gitreview for new namespace
+* Add region resource to identity service
+* The Compute User Guide
+* Server functional test - image and flavor
+* Add support to stack update
+* Change ignore-errors to ignore\_errors
+* Updated from global requirements
+* Do not use name attribute for path argument
+* Copy attributes in resource constructor
+* Don't use positional for keypair loaded
+* Add tox targets for functional testing on 2 and 3
+* Fix find available floating IP test
+* Image import
+* Updated from global requirements
+* add scheduler\_hints support for server creation
+* Make Resource.find more generically applicable
+* Get rid of example command line options
+* Delete transport test test\_debug\_post
+* Remove unecessary parameters to resource methods
+* Get url for object store object in the normal way
+* Fix set resource property id attribute
+* Fix resource property id
+* Fix image v2 member base\_path
+* Add object store object functional tests
+* Object store get sending bad headers
+* Remove the ips method from server.py
+* More Pythonic Connection example usage
+* Move service filter out of auth
+
+0.6.2
+-----
+
+* Get container off of an Object if its passed
+* Rename userguides to guides
+* Add a functional test for find\_extension
+* Make sure there is data for the meter test
+* Fix find\_extension for Network and Compute proxies
+* Properly pass on Container in path\_args
+* Remove spaces around data in transport debug print
+* Rename extensions to plugins
+* Remove redundant connection tests
+* Move TestTransportBase out of base
+* Improve the from\_config doc
+* Remove connection CRUD methods
+* Only log text strings in requests
+* Updated from global requirements
+* Updated from global requirements
+* Fix from\_config argument
+* Updated from global requirements
+
+0.6.1
+-----
+
+* Fixed problem with service name in comments
+* Fix KeyError when server's response doesn't contain resource key
+* Change visibility to interface
+* Fix call to get\_interface
+* Add functional tests for compute limits
+* Fixes a typo in test name
+* Changes in the new marker, initialise new marker to aviod bug
+
+0.6.0
+-----
+
+* Clean up services in profile
+* Claim no messages correctly
+* Add functional tests for telemetry sample
+* Add configuration function using os-client-config
+* Updated from global requirements
+* Add functional tests for telemetry meter
+* Fix key management proxy docs
+* add .eggs to .gitignore
+* Add wait for delete method
+* Fix spelling in proxy
+* Added functional tests for compute image API
+* Drop py33 support
+* Remove requirements.txt from tox.ini
+* Updated from global requirements
+* Update mock requirements
+* Add missing docstrings
+* Dynamically load services
+* Clean up document warnings
+* Split account/container metadata to own resources
+* Change auth plugin names to match KSA
+* Updated from global requirements
+* Generallize example so it can be modified easily
+* Fix logger name for examples
+* Add query params to all the proxy list calls
+* Remove limit/marker from object\_store proxy
+* Updated from global requirements
+* Remove thin interface
+* Convert list and find to use params parameter
+* Add ignore\_missing to proxy find
+* Argument consistency in test\_proxy\_base
+* Log reauth
+* Add docstrings for database resources
+* Add or change timestamp suffixes to "\_at"
+* Remove unnecessary None handling
+* Some updates to object\_store user guide
+* Don't allow users to set all API versions the same
+* Add docstrings to key\_management resources
+* Add docstrings for Metric resources
+* Rename keystore key-management
+* Fix cacert for tests and examples
+* Have resource find use get if possible
+* Updated from global requirements
+* Check results of find before returning
+* Move object\_store functional tests to proper name
+* Include examples in toctree
+* Change docs links to generic format
+* Add the pbr generated changelog to the docs
+* Refactor verify\_get tests
+* Add docstrings to telemetry resources
+* Add docs for Image v1 and v2 resources
+* Add orchestration resource docs
+* Use Message.existing() to create existing messages
+* Add normal list params to list method for telemetry statistics
+* Fix SSL verify/insecure translation
+* Add functional tests for telemetry statistics
+* Add functional tests for telemetry alarm\_change
+* Add functional tests for telemetry alarm crud
+* Add functional tests for telementry resource
+* Set sys.stdout for logging for examples and tests
+* Remove namespace from network ext test
+* Docs for logging
+* More selective logging
+* Enable Orchestration in DevStack
+* Correct test\_quota functional test
+* Add path\_args to create and update proxy methods
+* Clean up a few more python-openstacksdk references
+* Move volume docs to block\_store
+* Add \_at suffix to created/updated Server attrs
+* Refactor verify\_list tests
+* Updated from global requirements
+* Return the entire response in an InvalidResponse
+* Rename volume to block\_store
+* Rename project to openstacksdk
+* Add functional tests for update\_ip and find\_available\_ip
+* Updated from global requirements
+* Add funtcional tests for port
+* Rename clustering to cluster service
+* Switch put\_update to patch\_update
+* Add functional tests for floating IP
+* Add pool\_id param for pool\_member related proxy methods
+* Updated from global requirements
+* Fix missing doc on identity v2
+* Add Heat resource support
+* Convert telemetry capability list to generator
+* Fix vpn service docstring error
+* Use ostestr for tests
+* Fix missing doc on identity v3
+* Add functional tests for telemetry capabiliities
+* Updated from global requirements
+* Use very long functional test linger
+* Increase time we linger waiting for delete
+* Fix functional test gate
+* Fix create proxy issue
+* Support variations of external network attribute
+* Move Server.created to created\_at
+* Compare message data outside of assert\_called\_with
+* Add action() and check() method for heat support
+* Add functional tests for security group rule
+* Add functional tests for add & remove router interface
+* Add functional test for Network Quota
+* Allow create\_object to create objects
+* Refactor verify\_delete in proxy tests
+* Refactor verify\_create in proxy tests
+* Refactor verify\_update in proxy tests
+* Move stray metric test under proper directory
+* Add functional tests for servers
+* Add functional tests for security groups
+* Add functional tests for container metadata and delete
+* Claim messages and delete messages
+* Add cover/ folder to .gitignore
+* Add network/v2 vpn service resource
+* Add 'to\_dict' operation to Resource class
+* Senlin cluster resource and unit tests
+* Fix proxy docs
+* Add path\_args when invoking Resource.list() from proxy layer
+* Complete property definition in some lb resources
+* Remove fingerprint as keypair name
+* Add docstring to heat stack resource
+* Create messages on a queue
+* Add comment for tox coverage failure
+* Move compute limits to new \_get API
+* Create clouds.yaml for functional tests
+* Added functional tests for subnet
+* Delete queue
+* Added functional tests for router
+* Fix proxy delete error
+* Rename messaging module to message
+* Metric resource docs framework
+* Keystore resource docs framework
+* Image resource docs framework
+* Decorator for functional tests to check services
+* Fix catalog error
+* Initial commit for the Messaging service (Zaqar)
+* Remove oslo incubator config file
+* Accept intermediate path arguments at proxy
+* Removed fields=id\_attribute in find function
+* Minor changes to top level docs
+* Module loader docs
+* Orchestration resource docs
+* Identity resource doc framework
+* Add telemetry resource docs
+* Add some examples documentation
+* Fix functional tests deletes
+* Add id\_attribute to base proxy calls
+* Remove pass from delete functional tests
+* Fix underline for docs
+* Add keypair functional tests
+* Remove some mentions to preferences from docs
+* Add requirements.txt file for readthedocs
+* Correct the API base path of lbaas resources
+* Fix documentation warnings
+
+0.5.0
+-----
+
+* Change example for preferences
+* Move from UserPreference to Profile
+* Update orchestration functional tests
+* Add proxy docs and empty user guides
+* Set OS\_CLOUD for functional tests
+* proxy find telemetry
+* proxy find orchestration
+* proxy find network
+* proxy find keystore
+* proxy image find
+* proxy find identity
+* proxy find database
+* AFT compute extension
+* AFT network network CRUD
+* AFT network
+* Enable occ cloud region for example
+* change hacking requirements and fix hacking problems
+* proxy find compute
+* Make images list paginated
+* Create a method to format urls
+* Identity list updates
+* proxy image lists
+* Proxy database lists
+* Proxy keystore lists
+* Proxy network lists
+* Fix telemetry proxy comment
+* Proxy metric lists
+* Proxy orchestration lists
+* Proxy lists telemetry
+* Support for verify option for examples and tests
+* Rename list\_flavors flavors in example
+* Functional tests use OS\_CLOUD environment variable
+* Fix flavor functional test
+* No headers in body for create and update
+* Fix proxy object get comment
+* Changes for get calls in image proxies
+* Changes for database proxy gets
+* Changes for compute proxy list calls
+* Fix comment error on gets and heads
+* Common head method for proxies
+* Common list method for proxies
+* Remove httpretty
+* Changes for get calls in object\_store proxy
+* Orchestration proxy changes
+* Changes for get calls in volume proxy
+* Changes for get calls in telemetry proxy
+* Changes for get calls in network proxy
+* Changes for get calls in keystore proxy
+* Changes for get calls in identity proxies
+* Get changes for compute proxy
+* Basic object store container functional tests
+* Create base class for functional tests
+* Proxy get method
+* Remove clouds.yaml from gitignore
+* Add clouds.yaml file for contributor testing docs
+* Activate the cdn stuff
+* Temporarily work around httpretty again
+* Fix several small nits in network v2 proxy
+* Compute proxy update changes
+* Volume proxy create changes
+* Telemetry proxy create changes
+* Object Store proxy create changes
+* Network proxy create changes
+* Add the IPv6 subnet attributes
+* Updated from global requirements
+* Keystore proxy create changes
+* Image create proxy changes
+* Identity create proxy changes
+* Database create changes for proxy
+* Create changes for compute proxy
+* Updated from global requirements
+* Proxy create method
+* Initial version of clustering service support
+* Add os-client-config support for examples
+* Fix docs for volume proxy delete
+* Proxy update telemetry changes
+* Proxy update network changes
+* Proxy update keystore changes
+* Proxy update image changes
+* Proxy update identity changes
+* proxy update database changes
+* Proxy update method
+* Remove references to v2\_0 from examples
+* Move network example into directory
+* Move keypair to standalone example
+* Synchronize global requirements
+* Add proxy for trust operations
+* Move jenkins create and delete in their onw files
+* Add post hook file for a functional test gate
+* Move wait\_for\_status to resource module
+* Apply delete changes to image proxies
+* Apply delete changes to keystore proxy
+* Apply delete changes to identity proxies
+* Apply delete changes to volume proxy
+* Apply telemetry delete change
+* Apply orchestration delete change
+* Apply object\_store delete changes
+* Apply network delete changes
+* Apply delete API changes
+* Create stack
+* Updated from global requirements
+* Add more detail to method not supported exception
+* Add module name to repr string
+* The first functional test
+* Determine limit based on page size
+* Improve image.v2.tag
+* Proxy delete method
+* Add \_check\_resource to BaseProxy
+* Rework update\_attrs so dirty list always updated
+* identity/v3 trust resource
+* Make way for the functional tests
+* Add trust-id to command line arguments
+* Add a Proxy for the Volume service
+* metric: add support for generic resources
+* Adjust httpretty inclusion
+* Add new \_verify to proxy base tests
+* Add ResourceNotFound exception
+* Updated from global requirements
+* Raise NotFoundException for 404s
+* Remove httpretty from resource tests
+* Remove httpretty from Transport tests
+* Start moving Transport tests off of httpretty
+* Add requests\_mock to test-requirements.txt
+* Remove unused utils module in auth tests
+* Make get\_id public
+* Image v2 Proxy should inhert from BaseProxy
+* Get the ID of a single sub-resource
+* Avoid httpretty 0.8.8 because it is broken
+* Add missing equal sign to README
+* Remove repr calls from telemetry classes
+* Canonical request/response logging
+* Make the keypair example a bit more robust
+* Delete a Stack
+* Convert example --data to use eval instead of json
+* Fix jenkins name and floating ip
+* Add ServerDetail so list can include details
+* Set Flavor and Image resources on Server
+* Set put\_update for compute.v2.server.Server
+* Catch AttributeError in header with no alias
+* Set int type on several container headers
+* Move the network stuff out of the jenkins example
+* Fix compute proxy for server wait
+* Some convenience methods for security groups
+* Set headers on object before creating/updating
+* Remove py26 jobs
+* Remove CaseInsensitiveDict
+* identity: use set() for valid\_options
+* identity: add missing tenant options to valid options
+* Add base for Proxy classes to inherit from
+* Fix assert order in test\_resource
+* Ensure that assert order is (expected, actual)
+* Remove transaction timestamp from container
+* Fix glossary and other 404s
+* metric: add archive policy support
+* metric: add support for metric resource
+* Adjust paginate argument usage
+* Removed x-auth-token from obj.py
+* Fix bad links out of the index
+* Allow user to set a prop back to default
+* Remove id from put and patch requests
+
+0.4.1
+-----
+
+* Send empty dict when no headers on create/update
+
+0.4.0
+-----
+
+* Adjust long list handling for Flavor
+* Add ImageDetail for extra information
+* Fix comment and assert order
+* Add FlavorDetail for extra information
+* Use case insensitive dict for Resource attributes
+* Support listing non-paginated response bodies
+* Create header property
+* Convert user\_name to username
+* resync ksc auth plugins
+* omit 0.8.7 httpretty
+* Provide more accurate repr
+* Document compute/v2 resources
+* Fix the discoverable plugin with tokens
+* Increase Resource test coverage
+* Updated from global requirements
+* Fix up the limits documentation
+* Add the Volume resource for the Volume service
+* Add the Snapshot resource for the Volume service
+* Add the Type resource for the Volume service
+* add metric proxy and service
+* Move metric capabilities into a single Resource
+* Serialize Resource types before sending to server
+* Allow Resource attributes to be updated
+* Provide one resource for Compute v2 Limits
+* Adjust Container override methods
+* Mutate Resource via mapping instead of dict
+* Create server requires \*Ref names during POST
+* Prefer storing prop values as their name
+* Support Resource as a type for properties
+* Revert to KSC auth plugins
+* Add logging functionality to openstack.utils
+* Add API docs for network.v2
+* Add Resource.name property
+* Bypass type conversion when setting default prop
+* telemetry: fix threshold rule in alarm to be dict
+* telemetry: add missing alarm property severity
+* telemetry: add support for Gnocchi capabilities
+* Introduce the Volume service
+
+0.3.2
+-----
+
+* Update README and setup text for PyPI
+
+0.3.1
+-----
+
+* Set Resource.page limit to None
+* Add Resource.from\_name
+* Add status\_code to HttpException
+* Provide a better default user-agent string
+* Get a stack
+* Build up contributor documentation section
+* Build up user documentation section
+* Fix the example on the Usage page
+* Fix telemetry resource paths
+* Remove version from path
+* Reorganize existing documentation files
+* Convert the find method to use the page method rather than list
+* Add six to requirements
+* Remove iso8601 from dependencies
+* Rename floatingip to floating\_ip
+* Allow examples.get call without data
+* Resource.find should not raise ResourceNotFound
+* Working script to create a jenkins server
+* Add the capability for the user to get a page of data
+* Server convenience methods wait and get IPs
+* Remove flake/pep8 ignores
+* Use the proper timeutils package name
+* Adjust some parameters and return types
+* Refactor auth plugin loading
+* Get rid of some useless code
+* Make better support of service versions
+* Fix RuntimeError on Python 3 while listing objects
+* Correct auth\_plugin argument values
+* Better exception in Auth plugins
+* Implement Swift Proxy object and example
+* Build Resource from either existing object or id
+* Add image v2 proxy
+* Complete the Resource class documentation
+* Updated from global requirements
+* Add image v2 tags
+* Updated from global requirements
+* Remove extra GET call when limit provided to list
+* Workflow documentation is now in infra-manual
+* Add object\_store resource documentation
+* Neutron apparently doesn't support PATCH
+* compute/v2 server metadata and server meta resouce
+* AttributeError trapped when it won't be raised
+* Prepare for documentation of Resources
+* Don't attempt to \_\_get\_\_ prop without instance
+* Reswizzle proxy tests
+* keystore proxy methods and tests
+* Support regionless/global services
+* Expand r\_id to resource\_id for more clarity
+* identity/v2 extension resource
+* identity version resource and version fixes
+* Correct Resource.id deleter property
+
+0.2.1
+-----
+
+* Correct the namespace for Server resource
+
+0.2.0
+-----
+
+* Updated from global requirements
+* Add members resource to image v2 api
+* Add image resource to v2 images api
+* Add image V2 service version
+* remove id\_only from keypair find
+* Add the ability to set a new default for props
+* Updated from global requirements
+* Add coverage-package-name to tox.ini for coverage
+* Updated from global requirements
+* Fixed a typo in a comment in the tests
+* Have prop attribute access return None by default
+* Get prop aliases through their type, not raw value
+* Add getting started steps for novices
+* Expand index toctree to two levels
+* Add details to HttpException string
+* Fixed a typo in a docstring
+* Compute proxy methods
+* Implement iterator paging
+* Create a discoverable plugin
+* Sample thin interface
+* Rename keypairs to keypair to be more consistent
+* keystore/v1 container resource
+* keystore/v1 order resource
+* Add keystore service and secret resource
+* Minor docs updates to index, installation and usage
+* Use project name to retrieve version info
+* Initial "Getting Started" guide
+* Identity v2 proxy methods
+* Identity v3 proxy methods
+* Telemetry proxy methods
+* Orchestration proxy methods
+* Network proxy methods
+* Image proxy methods
+* Database proxy methods
+* base class for proxy tests
+* Updated from global requirements
+* Properly parse the keypair response and workaround issues
+* Have resource CRUD return self to simplify the proxies
+* The fixed ip format on the port may actually be an array
+* Add resource CRUD to connection class
+* Add an example for the connection class
+* move examples to code use preference docs
+* Move examples to code session docs
+* Move examples service filter to code
+* Move transport examples to code
+* Create a method to handle the set\_\* method logic
+* Fixed a number of typos
+* Updated from global requirements
+* High level interface
+* identity v3 docs
+* class linke for v2
+* resource autodocs
+* update :class references
+* identity v2 docs
+* auth plugin identity base docs
+* base auth plugin docs
+* Move the examples docs into the code
+* remove pointless test
+* service filter docs
+* fix identity service comment
+* User preference docs
+* Add connection documentation
+* Convert transport docs to autodoc
+* Convert the session object to autodoc
+* Change configuration for sphinx autodoc
+* Reverse order of tests to avoid incompatibility
+* Add ability to extract a list of versions
+* Allow user to select different visibilities
+* Add user preference and example CLI to build it
+* Fix the v2 auth plugin to handle empty token
+* Handle booleans that are strings in APIs
+* Introduce the connection class
+* Updated from global requirements
+* Apply id\_attribute to Ceilometer Meters
+* Remove extraneous vim editor configuration comments
+
+0.1.0.dev20141008
+-----------------
+
+* Update README requirements
+* Updated from global requirements
+* Use the now graduated oslo.utils
+* Make user\_id a higher priority for v2 auth
+* Use stevedore to load authorization plugins
+* Prepare for auth plugins
+* Use meter\_name as id for statistics
+* compute/v2 limits\_absolute resource
+* Determines version from auth\_url when not explicit
+* Add ability to find an available floating ip
+* Add support for Samples coming from Ceilometer
+* Add support for telemetry sample Statistics
+* Floating ip does not have an id
+* Fix find for resources with id\_attribute
+* Add find command to the examples
+* identity/v3 user resource
+* Updated from global requirements
+* Add database users for instances
+* Apply id\_attribute throughout resources
+* compute/v2 keypairs resource
+* Add databases to instances
+* Move cacert/insecure awkwardness examples/common
+* Updated from global requirements
+* Add docs environement to testing interface
+* identity/v3 policy resource
+* identity/v3 domain resource
+* identity/v3 project resource
+* identity/v3 credential resource
+* identity/v3 group resource
+* identity/v3 endpoint resource
+* identity/v3 service resource
+* Add \_\_init\_\_ files to identity service
+* Change example so CLI names match object arguments
+* Remove unused os-url option
+* Adding database flavor support
+* Fixing path to generated documentation
+* Implement the rest of Swift containers and objects
+* Work toward Python 3.4 support and testing
+* Sync up with latest keystoneclient changes
+* Allow headers to be retreived with GET bodies
+* Add domains for v3 authentication
+* identity/v2 role resource
+* network/v2 pool\_member resource
+* Fix the example authenticate
+* compute/v2 limits\_rate resource
+* Add example update
+* Add id\_attribute and resource\_name to resource
+* Adding alarm history to telemetry
+* Introduces example of running a method on a resource
+* Add the Alarm resource to telemetry
+* Updated from global requirements
+* compute/v2 server\_interface resource
+* Fix os\_region in example session
+* orchestration version resource
+* orchestration/v1 stack resource
+* Change OS\_REGION to OS\_REGION\_NAME
+* Change the capabilities to capability
+* Publicize resource\_id property
+* Add Meter resource to telemetry
+* Add the Resource resource to telemetry
+* Exception has wrong string for list
+* Server IP resource
+* Various standard server actions
+* compute/v2 server resource
+* identity/v2 tenant resource
+* identity/v2 user resource
+* Updated from global requirements
+* Fixes for telemetry
+* database/v1.0 instance resource
+* Add support for Swift containers
+* compute/v2 image resource
+* compute/ version resource
+* compute/v2 flavor resource
+* Introducing telemetry service
+* compute/v2 extension resource
+* network/v2 network resource
+* Add some factories
+* network/v2 security\_group\_rule resource
+* network/v2 quota resource
+* Add support for interface add/remove to routers
+* network/v2 metering\_label\_rule resource
+* network/v2 port resource
+* network/v2 load balancer healthmonitor resource
+* network/v2 subnet resource
+* network/v2 load balancer pool resource
+* network/v2 loadbalancer resource
+* network version resource
+* network/v2 security\_group resource
+* Have examples handle snake case to camel case
+* network/v2 load balancer listener resource
+* network/v2 floatingip resource
+* network/v2 extension resource
+* network/v2 metering\_label resource
+* network/v2 router resource
+* Separate head restrictions from get
+* Make logging more efficient in transport
+* Proper string formatting in exception messages
+* Minor fixes to examples
+* Full flavor CRUD
+* Don't join None values in utils.urljoin
+* Add example script for HEAD requests
+* Keep id in \_attrs
+* Add find method to resource
+* H405 activate
+* Add parameters to the list for filtering
+* Have exceptions print something by default
+* Make these comments H405 compliant
+* Allow --data option to pass UUID instead of json
+* Add some comments to the examples
+* Simple network resource
+* Add support for HEAD requests of resources
+* Change transport JSON handling
+* Fixed a small grammatical mistake in a docstring
+* Add example get
+* Add example delete
+* Example create command
+* Add common method to find a resource
+* The resource repr method should print id
+* Have the service catalog ignore empty urls
+* Add --data option to debug curl logging
+* Make version parsing in examples more intelligent
+* Important changes for service filtering
+* Very basic image resource
+* Updated from global requirements
+* json default for transport and resource \_\_repr\_\_
+* Make the session command a little more friendly
+* Synced from global-requirements
+* Example session command
+* Remove a now unused flake8 exclude directory
+* Example code reorg and auth examples
+* Removed two flake8 skips
+* Sync hacking requirement with global requirements
+* Important auth fixes
+* Capitalize SDK more reasonably in an exception name
+* Move MethodNotSupported exception to exceptions
+* HttpException should be derived from SdkException
+* Some docs for the session object
+* Get rid of base\_url from transport
+* Rearrange session arguments
+* Clean up transport stuff out of the resource class
+* Resolve Ed's concerns on README
+* Fleshed out the README and removed dependency on babel
+* Removed now unnecesary workaround for PyPy
+* Comment in middle of glossary messes it up
+* Authentication from keystoneclient
+* Add command structure to example code
+* Update sphinx from global-requirements
+* Wrap lines at the appropriate length and use native sphinx constructs
+* Reorganize the index a bit to make the important content be at the top
+* Fix an innacuracy in an example in the docs
+* Fixed an emberassing typo
+* Added a makefile for sphinx
+* Converted the glossary to use native Sphinx markup
+* Mark openstacksdk as being a universal wheel
+* Add initial glossary
+* Add Transport doc
+* Resource Properties
+* Update the requirements
+* Finish transport renaming in the tests
+* Add some sample scripts
+* Add base resource class
+* Session layer with base authenticator
+* Add .venv to .gitignore
+* Docs cleanup
+* Rename session to transport
+* Add redirection handling to openstack.session.Session
+* Add requests.Session wrapper class
+* Fix temporary pypy gate issue with setuptools
+* Several stylistic fixes for the docs
+* Switch to oslosphinx
+* add newlines to end of requirements files
+* remove api\_strawman
+* reigster->register typo
+* Added support in the strawman for re-authentication
+* Initial new version with demonstration of clean implementation
+* Added sample directory layout for pystack
+* Remove locale overrides in tox
+* Fix misspellings in python openstacksdk
+* Finished the pystack strawman overview
+* Initial pystack strawman docs
+* Made tox -e pep8 passed. Also made git review work
+* setting up the initial layout; move the api proposals to api\_strawman
+* Added example code based on pystack
+* This should be a plural
+* Consolidate readmes
+* Initial blob of thoughts from me
+* Initial commit

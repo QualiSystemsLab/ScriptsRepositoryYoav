@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="serverRootAddress">localhost</entry>
+<entry key="port">8029</entry>
+<entry key="driverUniqueName">driverUniqueName</entry>
+<entry key="username">username</entry>
+<entry key="password">password</entry>
+<entry key="domain">domain</entry>
+<entry key="fileFilters">fileFilters</entry>
+</properties>

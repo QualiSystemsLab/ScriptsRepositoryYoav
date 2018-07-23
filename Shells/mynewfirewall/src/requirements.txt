@@ -1,0 +1,5 @@
+cloudshell-shell-core>=2.3.0,<2.4.0
+cloudshell-networking>=4.0.0,<4.1.0
+cloudshell-automation-api>=8.3.0,<8.4.0
+cloudshell-networking-cisco>=5.2,<5.3
+cloudshell-networking-devices>=2.3,<2.4

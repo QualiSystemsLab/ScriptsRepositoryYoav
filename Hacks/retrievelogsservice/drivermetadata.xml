@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Driver Name="Sample driver" Version="1.2.1" MainClass="inputUpdater.InputUpdater" Description="driver description">
+    <Layout>
+        <Command Name="change_app_input_value" DisplayName="Change App Input Value" Description="Updates the inputs on an app">
+            <Parameters>
+                <Parameter Name="AppName" Type="String" Mandatory = "False" DefaultValue="SomeApp" DisplayName="App Name" Description="Please specify a value here"/>
+                <Parameter Name="attr_name" Type="String" Mandatory = "False" DefaultValue="vCenter Image" DisplayName="Attribute Name" Description="Please specify a value here"/>
+                <Parameter Name="attr_value" Type="String" Mandatory = "False" DefaultValue="abcde" DisplayName="Attribute Value" Description="Please specify a value here"/>
+            </Parameters>
+        </Command>
+    </Layout>
+</Driver>
