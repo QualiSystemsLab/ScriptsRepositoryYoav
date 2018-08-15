@@ -2,14 +2,13 @@ import requests
 import json
 import os
 
-# my token - 59066d6d1cf6158b6d8fdfeb6c6ff79e5e9d894e
-# to generate token https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
 
 class getallshellfoundrytemplates():
     def __init__(self, input_data):
+        self.config_data = input_data
         self.rest_session = requests.session()
         self.rest_session.params = {
-            'access_token': self.input_data.config_data.get('configuration').get('token'),
+            'access_token': self.config_data.get('configuration').get('token'),
             'Scope': 'repo',
             'token_type': 'bearer',
         }
@@ -49,6 +48,3 @@ class getallshellfoundrytemplates():
         if not os.path.exists(directory):
             os.makedirs(directory)
 
-handler = getallshellfoundrytemplates()
-handler.execute()
-pass

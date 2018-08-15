@@ -1,0 +1,233 @@
+timestamp: 02-08-2018 16:52:28 operation freevirtualmemory result : LoadPercentage=32 
+timestamp: 02-08-2018 16:52:29 operation freevirtualmemory result : FreePhysicalMemory=7783456 
+timestamp: 02-08-2018 16:52:30 operation freevirtualmemory result : FreeVirtualMemory=5106344 
+timestamp: 02-08-2018 16:52:29 ping to freevirtualmemory result : 
+
+LoadPercentage=38
+
+
+
+ 
+timestamp: 02-08-2018 16:52:30 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7774232
+
+
+
+ 
+timestamp: 02-08-2018 16:52:30 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5115412
+
+
+
+ 
+timestamp: 02-08-2018 16:52:31 operation freevirtualmemory result : LoadPercentage=41 
+timestamp: 02-08-2018 16:52:32 operation freevirtualmemory result : FreePhysicalMemory=7771484 
+timestamp: 02-08-2018 16:52:32 operation freevirtualmemory result : FreeVirtualMemory=5106168 
+timestamp: 02-08-2018 16:52:32 ping to freevirtualmemory result : 
+
+LoadPercentage=44
+
+
+
+ 
+timestamp: 02-08-2018 16:52:33 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7772364
+
+
+
+ 
+timestamp: 02-08-2018 16:52:33 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5113448
+
+
+
+ 
+timestamp: 02-08-2018 16:52:33 operation freevirtualmemory result : LoadPercentage=60 
+timestamp: 02-08-2018 16:52:34 operation freevirtualmemory result : FreePhysicalMemory=7769352 
+timestamp: 02-08-2018 16:52:34 operation freevirtualmemory result : FreeVirtualMemory=5104412 
+timestamp: 02-08-2018 16:52:34 ping to freevirtualmemory result : 
+
+LoadPercentage=63
+
+
+
+ 
+timestamp: 02-08-2018 16:52:35 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7770644
+
+
+
+ 
+timestamp: 02-08-2018 16:52:36 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5108704
+
+
+
+ 
+timestamp: 02-08-2018 16:52:36 operation freevirtualmemory result : LoadPercentage=43 
+timestamp: 02-08-2018 16:52:37 operation freevirtualmemory result : FreePhysicalMemory=7767972 
+timestamp: 02-08-2018 16:52:37 operation freevirtualmemory result : FreeVirtualMemory=5102832 
+timestamp: 02-08-2018 16:52:37 ping to freevirtualmemory result : 
+
+LoadPercentage=49
+
+
+
+ 
+timestamp: 02-08-2018 16:52:38 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7766104
+
+
+
+ 
+timestamp: 02-08-2018 16:52:38 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5105296
+
+
+
+ 
+timestamp: 02-08-2018 16:52:38 operation freevirtualmemory result : LoadPercentage=79 
+timestamp: 02-08-2018 16:52:39 operation freevirtualmemory result : FreePhysicalMemory=7753920 
+timestamp: 02-08-2018 16:52:40 operation freevirtualmemory result : FreeVirtualMemory=5091928 
+timestamp: 02-08-2018 16:52:39 ping to freevirtualmemory result : 
+
+LoadPercentage=91
+
+
+
+ 
+timestamp: 02-08-2018 16:52:41 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7753688
+
+
+
+ 
+timestamp: 02-08-2018 16:52:41 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5100340
+
+
+
+ 
+timestamp: 02-08-2018 16:52:41 operation freevirtualmemory result : LoadPercentage=35 
+timestamp: 02-08-2018 16:52:42 operation freevirtualmemory result : FreePhysicalMemory=7755664 
+timestamp: 02-08-2018 16:52:42 operation freevirtualmemory result : FreeVirtualMemory=5091736 
+timestamp: 02-08-2018 16:52:42 ping to freevirtualmemory result : 
+
+LoadPercentage=51
+
+
+
+ 
+timestamp: 02-08-2018 16:52:43 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7755624
+
+
+
+ 
+timestamp: 02-08-2018 16:52:43 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5098824
+
+
+
+ 
+timestamp: 02-08-2018 16:52:44 operation freevirtualmemory result : LoadPercentage=30 
+timestamp: 02-08-2018 16:52:45 operation freevirtualmemory result : FreePhysicalMemory=7747368 
+timestamp: 02-08-2018 16:52:45 operation freevirtualmemory result : FreeVirtualMemory=5060000 
+timestamp: 02-08-2018 16:52:44 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:52:46 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7752168
+
+
+
+ 
+timestamp: 02-08-2018 16:52:46 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5074348
+
+
+
+ 
+timestamp: 02-08-2018 16:52:46 operation freevirtualmemory result : LoadPercentage=24 
+timestamp: 02-08-2018 16:52:47 operation freevirtualmemory result : FreePhysicalMemory=7750516 
+timestamp: 02-08-2018 16:52:47 operation freevirtualmemory result : FreeVirtualMemory=5067084 
+timestamp: 02-08-2018 16:52:47 ping to freevirtualmemory result : 
+
+LoadPercentage=30
+
+
+
+ 
+timestamp: 02-08-2018 16:52:48 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7751188
+
+
+
+ 
+timestamp: 02-08-2018 16:52:48 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5074604
+
+
+
+ 
+timestamp: 02-08-2018 16:52:48 operation freevirtualmemory result : LoadPercentage=41 
+timestamp: 02-08-2018 16:52:50 operation freevirtualmemory result : FreePhysicalMemory=7748616 
+timestamp: 02-08-2018 16:52:50 operation freevirtualmemory result : FreeVirtualMemory=5068428 
+timestamp: 02-08-2018 16:52:49 ping to freevirtualmemory result : 
+
+LoadPercentage=36
+
+
+
+ 
+timestamp: 02-08-2018 16:52:51 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7750332
+
+
+
+ 
+timestamp: 02-08-2018 16:52:51 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5075916
+
+
+
+ 
+timestamp: 02-08-2018 16:52:51 operation freevirtualmemory result : LoadPercentage=51 
+timestamp: 02-08-2018 16:52:52 operation freevirtualmemory result : FreePhysicalMemory=7749876 
+timestamp: 02-08-2018 16:52:52 operation freevirtualmemory result : FreeVirtualMemory=5065416 
+timestamp: 02-08-2018 16:52:52 ping to freevirtualmemory result : 
+
+LoadPercentage=63
+
+
+
+ 
+timestamp: 02-08-2018 16:52:53 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7743760
+
+
+
+ 

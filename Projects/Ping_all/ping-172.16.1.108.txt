@@ -1,0 +1,4 @@
+timestamp: 02-08-2018 14:43:20 ping to 172.16.1.108 result : Request timed out. 
+timestamp: 02-08-2018 14:43:34 ping to 172.16.1.108 result : Request timed out. 
+timestamp: 02-08-2018 14:43:48 ping to 172.16.1.108 result : Request timed out. 
+timestamp: 02-08-2018 14:44:03 ping to 172.16.1.108 result : Request timed out. 

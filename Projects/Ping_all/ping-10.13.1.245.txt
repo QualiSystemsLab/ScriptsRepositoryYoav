@@ -1,0 +1,3 @@
+timestamp: 02-08-2018 14:43:28 ping to 10.13.1.245 result : Reply from 10.13.1.245: bytes=32 time=92ms TTL=126 
+timestamp: 02-08-2018 14:43:42 ping to 10.13.1.245 result : Reply from 10.13.1.245: bytes=32 time=92ms TTL=126 
+timestamp: 02-08-2018 14:43:57 ping to 10.13.1.245 result : Reply from 10.13.1.245: bytes=32 time=93ms TTL=126 

@@ -1,0 +1,4 @@
+timestamp: 02-08-2018 14:43:19 ping to 172.16.1.104 result : Reply from 172.16.1.104: bytes=32 time=93ms TTL=126 
+timestamp: 02-08-2018 14:43:33 ping to 172.16.1.104 result : Reply from 172.16.1.104: bytes=32 time=92ms TTL=126 
+timestamp: 02-08-2018 14:43:48 ping to 172.16.1.104 result : Reply from 172.16.1.104: bytes=32 time=93ms TTL=126 
+timestamp: 02-08-2018 14:44:03 ping to 172.16.1.104 result : Reply from 172.16.1.104: bytes=32 time=94ms TTL=126 

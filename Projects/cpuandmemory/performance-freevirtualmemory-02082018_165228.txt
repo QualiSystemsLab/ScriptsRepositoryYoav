@@ -1,0 +1,987 @@
+timestamp: 02-08-2018 16:50:33 ping to freevirtualmemory result : 
+
+LoadPercentage=36
+
+
+
+ 
+timestamp: 02-08-2018 16:50:35 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8067988
+
+
+
+ 
+timestamp: 02-08-2018 16:50:35 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5283544
+
+
+
+ 
+timestamp: 02-08-2018 16:50:36 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:50:37 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8059724
+
+
+
+ 
+timestamp: 02-08-2018 16:50:37 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5280296
+
+
+
+ 
+timestamp: 02-08-2018 16:50:38 ping to freevirtualmemory result : 
+
+LoadPercentage=12
+
+
+
+ 
+timestamp: 02-08-2018 16:50:40 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8058792
+
+
+
+ 
+timestamp: 02-08-2018 16:50:40 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5281408
+
+
+
+ 
+timestamp: 02-08-2018 16:50:41 ping to freevirtualmemory result : 
+
+LoadPercentage=12
+
+
+
+ 
+timestamp: 02-08-2018 16:50:42 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8057592
+
+
+
+ 
+timestamp: 02-08-2018 16:50:42 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5281376
+
+
+
+ 
+timestamp: 02-08-2018 16:50:43 ping to freevirtualmemory result : 
+
+LoadPercentage=21
+
+
+
+ 
+timestamp: 02-08-2018 16:50:44 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8057556
+
+
+
+ 
+timestamp: 02-08-2018 16:50:44 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5282128
+
+
+
+ 
+timestamp: 02-08-2018 16:50:46 ping to freevirtualmemory result : 
+
+LoadPercentage=49
+
+
+
+ 
+timestamp: 02-08-2018 16:50:47 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8022048
+
+
+
+ 
+timestamp: 02-08-2018 16:50:47 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5234616
+
+
+
+ 
+timestamp: 02-08-2018 16:50:48 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:50:49 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8008660
+
+
+
+ 
+timestamp: 02-08-2018 16:50:50 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5236028
+
+
+
+ 
+timestamp: 02-08-2018 16:50:51 ping to freevirtualmemory result : 
+
+LoadPercentage=32
+
+
+
+ 
+timestamp: 02-08-2018 16:50:52 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8017528
+
+
+
+ 
+timestamp: 02-08-2018 16:50:52 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5259688
+
+
+
+ 
+timestamp: 02-08-2018 16:50:53 ping to freevirtualmemory result : 
+
+LoadPercentage=24
+
+
+
+ 
+timestamp: 02-08-2018 16:50:54 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8023208
+
+
+
+ 
+timestamp: 02-08-2018 16:50:54 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5265520
+
+
+
+ 
+timestamp: 02-08-2018 16:50:55 ping to freevirtualmemory result : 
+
+LoadPercentage=24
+
+
+
+ 
+timestamp: 02-08-2018 16:50:57 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8023264
+
+
+
+ 
+timestamp: 02-08-2018 16:50:57 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5266960
+
+
+
+ 
+timestamp: 02-08-2018 16:50:58 ping to freevirtualmemory result : 
+
+LoadPercentage=29
+
+
+
+ 
+timestamp: 02-08-2018 16:50:59 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8019720
+
+
+
+ 
+timestamp: 02-08-2018 16:50:59 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5250916
+
+
+
+ 
+timestamp: 02-08-2018 16:51:00 ping to freevirtualmemory result : 
+
+LoadPercentage=27
+
+
+
+ 
+timestamp: 02-08-2018 16:51:01 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8012440
+
+
+
+ 
+timestamp: 02-08-2018 16:51:02 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5249976
+
+
+
+ 
+timestamp: 02-08-2018 16:51:03 ping to freevirtualmemory result : 
+
+LoadPercentage=26
+
+
+
+ 
+timestamp: 02-08-2018 16:51:04 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8011444
+
+
+
+ 
+timestamp: 02-08-2018 16:51:04 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5243292
+
+
+
+ 
+timestamp: 02-08-2018 16:51:05 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:51:06 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8012288
+
+
+
+ 
+timestamp: 02-08-2018 16:51:06 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5245328
+
+
+
+ 
+timestamp: 02-08-2018 16:51:08 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:51:09 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8019660
+
+
+
+ 
+timestamp: 02-08-2018 16:51:09 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5259660
+
+
+
+ 
+timestamp: 02-08-2018 16:51:10 ping to freevirtualmemory result : 
+
+LoadPercentage=49
+
+
+
+ 
+timestamp: 02-08-2018 16:51:11 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8012788
+
+
+
+ 
+timestamp: 02-08-2018 16:51:11 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5245720
+
+
+
+ 
+timestamp: 02-08-2018 16:51:12 ping to freevirtualmemory result : 
+
+LoadPercentage=18
+
+
+
+ 
+timestamp: 02-08-2018 16:51:14 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8012448
+
+
+
+ 
+timestamp: 02-08-2018 16:51:14 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5241752
+
+
+
+ 
+timestamp: 02-08-2018 16:51:15 ping to freevirtualmemory result : 
+
+LoadPercentage=18
+
+
+
+ 
+timestamp: 02-08-2018 16:51:16 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8012560
+
+
+
+ 
+timestamp: 02-08-2018 16:51:16 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5242848
+
+
+
+ 
+timestamp: 02-08-2018 16:51:17 ping to freevirtualmemory result : 
+
+LoadPercentage=16
+
+
+
+ 
+timestamp: 02-08-2018 16:51:19 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8013636
+
+
+
+ 
+timestamp: 02-08-2018 16:51:19 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5244840
+
+
+
+ 
+timestamp: 02-08-2018 16:51:20 ping to freevirtualmemory result : 
+
+LoadPercentage=15
+
+
+
+ 
+timestamp: 02-08-2018 16:51:21 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8011864
+
+
+
+ 
+timestamp: 02-08-2018 16:51:21 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5243992
+
+
+
+ 
+timestamp: 02-08-2018 16:51:22 ping to freevirtualmemory result : 
+
+LoadPercentage=30
+
+
+
+ 
+timestamp: 02-08-2018 16:51:24 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8011536
+
+
+
+ 
+timestamp: 02-08-2018 16:51:24 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5244476
+
+
+
+ 
+timestamp: 02-08-2018 16:51:25 ping to freevirtualmemory result : 
+
+LoadPercentage=21
+
+
+
+ 
+timestamp: 02-08-2018 16:51:26 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8010944
+
+
+
+ 
+timestamp: 02-08-2018 16:51:26 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5240888
+
+
+
+ 
+timestamp: 02-08-2018 16:51:27 ping to freevirtualmemory result : 
+
+LoadPercentage=30
+
+
+
+ 
+timestamp: 02-08-2018 16:51:29 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8010560
+
+
+
+ 
+timestamp: 02-08-2018 16:51:29 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5243632
+
+
+
+ 
+timestamp: 02-08-2018 16:51:30 ping to freevirtualmemory result : 
+
+LoadPercentage=32
+
+
+
+ 
+timestamp: 02-08-2018 16:51:31 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8009280
+
+
+
+ 
+timestamp: 02-08-2018 16:51:31 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5242304
+
+
+
+ 
+timestamp: 02-08-2018 16:51:32 ping to freevirtualmemory result : 
+
+LoadPercentage=35
+
+
+
+ 
+timestamp: 02-08-2018 16:51:33 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=8005020
+
+
+
+ 
+timestamp: 02-08-2018 16:51:34 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5241820
+
+
+
+ 
+timestamp: 02-08-2018 16:51:35 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:51:36 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7999288
+
+
+
+ 
+timestamp: 02-08-2018 16:51:36 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5238452
+
+
+
+ 
+timestamp: 02-08-2018 16:51:37 ping to freevirtualmemory result : 
+
+LoadPercentage=79
+
+
+
+ 
+timestamp: 02-08-2018 16:51:38 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7989388
+
+
+
+ 
+timestamp: 02-08-2018 16:51:39 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5224212
+
+
+
+ 
+timestamp: 02-08-2018 16:51:40 ping to freevirtualmemory result : 
+
+LoadPercentage=32
+
+
+
+ 
+timestamp: 02-08-2018 16:51:41 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7987868
+
+
+
+ 
+timestamp: 02-08-2018 16:51:41 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5239088
+
+
+
+ 
+timestamp: 02-08-2018 16:51:42 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:51:43 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7989492
+
+
+
+ 
+timestamp: 02-08-2018 16:51:44 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5241892
+
+
+
+ 
+timestamp: 02-08-2018 16:51:45 ping to freevirtualmemory result : 
+
+LoadPercentage=11
+
+
+
+ 
+timestamp: 02-08-2018 16:51:46 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7989840
+
+
+
+ 
+timestamp: 02-08-2018 16:51:46 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5241904
+
+
+
+ 
+timestamp: 02-08-2018 16:51:47 ping to freevirtualmemory result : 
+
+LoadPercentage=24
+
+
+
+ 
+timestamp: 02-08-2018 16:51:48 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7989752
+
+
+
+ 
+timestamp: 02-08-2018 16:51:48 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5241072
+
+
+
+ 
+timestamp: 02-08-2018 16:51:50 ping to freevirtualmemory result : 
+
+LoadPercentage=40
+
+
+
+ 
+timestamp: 02-08-2018 16:51:51 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7872540
+
+
+
+ 
+timestamp: 02-08-2018 16:51:51 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5164872
+
+
+
+ 
+timestamp: 02-08-2018 16:51:52 ping to freevirtualmemory result : 
+
+LoadPercentage=99
+
+
+
+ 
+timestamp: 02-08-2018 16:51:53 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7797896
+
+
+
+ 
+timestamp: 02-08-2018 16:51:54 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5146524
+
+
+
+ 
+timestamp: 02-08-2018 16:51:55 ping to freevirtualmemory result : 
+
+LoadPercentage=90
+
+
+
+ 
+timestamp: 02-08-2018 16:51:56 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7792264
+
+
+
+ 
+timestamp: 02-08-2018 16:51:56 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5159104
+
+
+
+ 
+timestamp: 02-08-2018 16:51:57 ping to freevirtualmemory result : 
+
+LoadPercentage=55
+
+
+
+ 
+timestamp: 02-08-2018 16:51:58 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7790836
+
+
+
+ 
+timestamp: 02-08-2018 16:51:59 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5170340
+
+
+
+ 
+timestamp: 02-08-2018 16:52:00 ping to freevirtualmemory result : 
+
+LoadPercentage=58
+
+
+
+ 
+timestamp: 02-08-2018 16:52:01 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7811572
+
+
+
+ 
+timestamp: 02-08-2018 16:52:01 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5195788
+
+
+
+ 
+timestamp: 02-08-2018 16:52:02 ping to freevirtualmemory result : 
+
+LoadPercentage=58
+
+
+
+ 
+timestamp: 02-08-2018 16:52:03 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7781148
+
+
+
+ 
+timestamp: 02-08-2018 16:52:04 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5155784
+
+
+
+ 
+timestamp: 02-08-2018 16:52:05 ping to freevirtualmemory result : 
+
+LoadPercentage=30
+
+
+
+ 
+timestamp: 02-08-2018 16:52:06 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7784500
+
+
+
+ 
+timestamp: 02-08-2018 16:52:06 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5155996
+
+
+
+ 
+timestamp: 02-08-2018 16:52:07 ping to freevirtualmemory result : 
+
+LoadPercentage=18
+
+
+
+ 
+timestamp: 02-08-2018 16:52:08 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7785568
+
+
+
+ 
+timestamp: 02-08-2018 16:52:08 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5158052
+
+
+
+ 
+timestamp: 02-08-2018 16:52:10 ping to freevirtualmemory result : 
+
+LoadPercentage=43
+
+
+
+ 
+timestamp: 02-08-2018 16:52:11 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7817408
+
+
+
+ 
+timestamp: 02-08-2018 16:52:11 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5151944
+
+
+
+ 
+timestamp: 02-08-2018 16:52:12 ping to freevirtualmemory result : 
+
+LoadPercentage=16
+
+
+
+ 
+timestamp: 02-08-2018 16:52:13 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7826752
+
+
+
+ 
+timestamp: 02-08-2018 16:52:13 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5155220
+
+
+
+ 
+timestamp: 02-08-2018 16:52:14 ping to freevirtualmemory result : 
+
+LoadPercentage=24
+
+
+
+ 
+timestamp: 02-08-2018 16:52:16 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7828364
+
+
+
+ 
+timestamp: 02-08-2018 16:52:16 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5158764
+
+
+
+ 
+timestamp: 02-08-2018 16:52:17 ping to freevirtualmemory result : 
+
+LoadPercentage=15
+
+
+
+ 
+timestamp: 02-08-2018 16:52:18 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7822792
+
+
+
+ 
+timestamp: 02-08-2018 16:52:18 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5158816
+
+
+
+ 
+timestamp: 02-08-2018 16:52:19 ping to freevirtualmemory result : 
+
+LoadPercentage=44
+
+
+
+ 
+timestamp: 02-08-2018 16:52:21 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7811632
+
+
+
+ 
+timestamp: 02-08-2018 16:52:21 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5156748
+
+
+
+ 
+timestamp: 02-08-2018 16:52:22 ping to freevirtualmemory result : 
+
+LoadPercentage=22
+
+
+
+ 
+timestamp: 02-08-2018 16:52:23 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7822172
+
+
+
+ 
+timestamp: 02-08-2018 16:52:23 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5151336
+
+
+
+ 
+timestamp: 02-08-2018 16:52:24 ping to freevirtualmemory result : 
+
+LoadPercentage=44
+
+
+
+ 
+timestamp: 02-08-2018 16:52:25 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7802640
+
+
+
+ 
+timestamp: 02-08-2018 16:52:25 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5151916
+
+
+
+ 
+timestamp: 02-08-2018 16:52:27 ping to freevirtualmemory result : 
+
+LoadPercentage=33
+
+
+
+ 
+timestamp: 02-08-2018 16:52:28 ping to freevirtualmemory result : 
+
+FreePhysicalMemory=7789396
+
+
+
+ 
+timestamp: 02-08-2018 16:52:28 ping to freevirtualmemory result : 
+
+FreeVirtualMemory=5130584
+
+
+
+ 

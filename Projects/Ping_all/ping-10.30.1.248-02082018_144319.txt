@@ -1,0 +1,1 @@
+timestamp: 02-08-2018 14:42:26 ping to 10.30.1.248 result : Request timed out. 

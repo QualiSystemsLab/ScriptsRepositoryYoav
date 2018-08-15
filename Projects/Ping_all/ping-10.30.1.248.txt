@@ -1,0 +1,3 @@
+timestamp: 02-08-2018 14:43:29 ping to 10.30.1.248 result : Request timed out. 
+timestamp: 02-08-2018 14:43:43 ping to 10.30.1.248 result : Request timed out. 
+timestamp: 02-08-2018 14:43:58 ping to 10.30.1.248 result : Request timed out. 
