@@ -49,7 +49,6 @@ class getallshellfoundrytemplates():
             self.extract(path_to_zip_file='{0}/{1}'.format(self.config_data.get('configuration').get('local_folder'), zipfile),
                          directory_to_extract_to='{0}/{1}'.format(self.config_data.get('configuration').get('local_folder'), 'Extracted'))
 
-
     def verify_dir(self, directory):
         if not os.path.exists(directory):
             os.makedirs(directory)
