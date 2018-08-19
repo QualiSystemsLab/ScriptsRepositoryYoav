@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import zipfile
 
 
 class getallshellfoundrytemplates():
@@ -43,8 +44,20 @@ class getallshellfoundrytemplates():
                 local_prefix=self.config_data.get('configuration').get('local_folder')
             )
             print temp.get('name')
+        all_zip_files = self.get_folder_content(self.config_data.get('configuration').get('local_folder'))
+        for zipfile in all_zip_files:
+            self.extract(path_to_zip_file='{0}/{1}'.format(self.config_data.get('configuration').get('local_folder'), zipfile),
+                         directory_to_extract_to='{0}/{1}'.format(self.config_data.get('configuration').get('local_folder'), 'Extracted'))
+
 
     def verify_dir(self, directory):
         if not os.path.exists(directory):
             os.makedirs(directory)
 
+    def extract(self, path_to_zip_file, directory_to_extract_to):
+        zip_ref = zipfile.ZipFile(path_to_zip_file, 'r')
+        zip_ref.extractall(directory_to_extract_to)
+        zip_ref.close()
+
+    def get_folder_content(self, path):
+        return os.listdir(path)

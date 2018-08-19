@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06d826c-0fe6-4a94-8cdc-7c5d0488d496" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hacks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hacks/getAllShellfoundryTemplates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hacks/getAllShellfoundryTemplates/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/GetAllJobs/get_all_jobs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/Horse/horses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/Ping_all/pingall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/cpuandmemory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/cpuandmemory/cpuandmemory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/ploter/plotter_CPULoad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Projects/ploter/plotter_eswatchdog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shells/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customers/Airties/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customers/Airties/getAllESData/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customers/Airties/getAllESData/getallESdetails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../customers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hacks/getAllShellfoundryTemplates/config_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Hacks/getAllShellfoundryTemplates/config_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hacks/getAllShellfoundryTemplates/getTemplates.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hacks/getAllShellfoundryTemplates/getTemplates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Samples/Debuggers/debug_with_session_empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Samples/Debuggers/debug_with_session_empty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Shells/mynewfirewall/MynewfirewallDriver.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Shells/mynewfirewall/MynewfirewallDriver.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customcommand.py" beforeDir="false" afterPath="$PROJECT_DIR$/customcommand.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debuging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/debuging.iml" afterDir="false" />
-    </list>
+    <list default="true" id="d06d826c-0fe6-4a94-8cdc-7c5d0488d496" name="Default" comment="" />
     <ignored path="debuging.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,6 +22,7 @@
     <session id="-2048555818">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -84,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/customcommand.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-83">
-              <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            <state relative-caret-position="349">
+              <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
               <folding>
                 <marker date="1534343155046" expanded="true" signature="695:1364" ph="..." />
               </folding>
@@ -159,8 +133,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="30" />
+    <option name="x" value="-349" />
+    <option name="y" value="21" />
     <option name="width" value="1934" />
     <option name="height" value="1006" />
   </component>
@@ -754,7 +728,7 @@
     <option name="totallyTimeSpent" value="8386000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="30" width="1934" height="1006" extended-state="0" />
+    <frame x="-349" y="21" width="1934" height="1006" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16983122" />
@@ -765,7 +739,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32979852" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32873806" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35206422" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35206422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -951,8 +925,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/customcommand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="60" column="43" lean-forward="true" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        <state relative-caret-position="349">
+          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
           <folding>
             <marker date="1534343155046" expanded="true" signature="695:1364" ph="..." />
           </folding>
