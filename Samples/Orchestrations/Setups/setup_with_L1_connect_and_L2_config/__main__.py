@@ -19,9 +19,9 @@ def myfunction(sandbox , components):
     pass
 
 
-# sandbox.workflow.add_to_connectivity(blueprint_commands.connectL1Routes)
+sandbox.workflow.add_to_connectivity(blueprint_commands.connectL1Routes)
 # sandbox.workflow.add_to_preparation(blueprint_commands.Deploy_DHCP_First)
-sandbox.workflow.add_to_preparation(blueprint_commands.solve_abstract_tgn)
+# sandbox.workflow.add_to_preparation(blueprint_commands.solve_abstract_tgn)
 # sandbox.workflow.add_to_provisioning(myfunction)
 
 

@@ -1,0 +1,47 @@
+tosca_definitions_version: tosca_simple_yaml_1_0
+
+metadata:
+  template_name: Ixvm
+  template_author: Anonymous
+  template_version: 0.1.0
+  template_icon: shell-icon.png
+
+description: >
+  TOSCA based deployed app shell
+
+imports:
+  - cloudshell_standard: cloudshell_deployed_app_standard_1_0_2.yaml
+
+node_types:
+
+  vendor.switch.Ixvm:
+    derived_from: cloudshell.nodes.DeployedApp
+    properties:
+      license_server:
+        type: string          # optional values: string, integer, float, boolean, cloudshell.datatypes.Password
+        default:
+        description: Some attribute description
+    capabilities:
+      auto_discovery_capability:
+        type: cloudshell.capabilities.AutoDiscovery
+        properties:        
+          license_server:
+            type: string          # optional values: string, integer, float, boolean, cloudshell.datatypes.Password
+            default:
+            description: Some attribute description
+          enable_auto_discovery:
+            type: boolean
+            default: true
+          auto_discovery_description:
+            type: string
+            default: Describe the auto discovery
+          inventory_description:
+            type: string
+            default: Describe the resource shell template
+    artifacts:
+      icon:
+        file: shell-icon.png
+        type: tosca.artifacts.File
+      driver:
+        file: IxvmDriver.zip
+        type: tosca.artifacts.File

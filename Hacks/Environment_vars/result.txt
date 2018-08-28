@@ -1,0 +1,45 @@
+Key: TMP , Value:C:\Users\yoav.e\AppData\Local\Temp
+Key: COMPUTERNAME , Value:QS-IL-LT-YOAVE
+Key: USERDOMAIN , Value:QUALISYSTEMS
+Key: PSMODULEPATH , Value:%ProgramFiles%\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\PowerShell\Modules\
+Key: COMMONPROGRAMFILES , Value:C:\Program Files\Common Files
+Key: PROCESSOR_IDENTIFIER , Value:Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+Key: PROGRAMFILES , Value:C:\Program Files
+Key: PROCESSOR_REVISION , Value:8e09
+Key: SYSTEMROOT , Value:C:\Windows
+Key: PATH , Value:C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\nodejs\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft Network Monitor 3\;C:\Users\yoav.e\AppData\Local\Microsoft\WindowsApps;C:\Users\yoav.e\AppData\Roaming\npm
+Key: PROGRAMFILES(X86) , Value:C:\Program Files (x86)
+Key: DRIVERDATA , Value:C:\Windows\System32\Drivers\DriverData
+Key: STUDIOINSTALLDIR , Value:C:\Program Files (x86)\QualiSystems\TestShell\Studio
+Key: TEMP , Value:C:\Users\yoav.e\AppData\Local\Temp
+Key: COMMONPROGRAMFILES(X86) , Value:C:\Program Files (x86)\Common Files
+Key: PROCESSOR_ARCHITECTURE , Value:AMD64
+Key: CHOCOLATEYINSTALL , Value:C:\ProgramData\chocolatey
+Key: CHOCOLATEYLASTPATHUPDATE , Value:Mon Jul 30 09:06:22 2018
+Key: ALLUSERSPROFILE , Value:C:\ProgramData
+Key: LOCALAPPDATA , Value:C:\Users\yoav.e\AppData\Local
+Key: HOMEPATH , Value:\Users\yoav.e
+Key: USERDOMAIN_ROAMINGPROFILE , Value:QUALISYSTEMS
+Key: PROGRAMW6432 , Value:C:\Program Files
+Key: USERNAME , Value:yoav.e
+Key: LOGONSERVER , Value:\\BLACK
+Key: PROMPT , Value:$P$G
+Key: COMSPEC , Value:C:\Windows\system32\cmd.exe
+Key: PROGRAMDATA , Value:C:\ProgramData
+Key: ONEDRIVE , Value:C:\Users\yoav.e\OneDrive
+Key: RESERVATIONCONTEXT , Value:{"environmentName":"","environmentPath":"IXVMs","domain":"Global", "description":"","parameters":{"resourceRequirements":[],"globalInputs":[],"resourceAdditionalInfo":[]},"ownerUser":"admin","ownerPass":"admin","id":"4e7c8134-5689-4162-887c-01a3aef86fc8","permittedUsers":[{"userName":"admin", "email":"None"}]}
+Key: USERDNSDOMAIN , Value:QUALISYSTEMS.LOCAL
+Key: UATDATA , Value:C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+Key: QUALICONNECTIVITYCONTEXT , Value:{"tsAPIPort": "8028","adminPass": "admin", "adminUser": "admin", "serverAddress":"localhost"}
+Key: PATHEXT , Value:.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+Key: WINDIR , Value:C:\Windows
+Key: APPDATA , Value:C:\Users\yoav.e\AppData\Roaming
+Key: HOMEDRIVE , Value:C:
+Key: SYSTEMDRIVE , Value:C:
+Key: NUMBER_OF_PROCESSORS , Value:4
+Key: LSERVOPTS , Value:-port 5093 -com 100 -l "C:\Program Files (x86)\QualiSystems\CloudShell\LicenseServer\Logs\usage.txt" -f "C:\Program Files (x86)\QualiSystems\CloudShell\LicenseServer\Logs\log.txt" -tr 7 -z 1000k
+Key: PROCESSOR_LEVEL , Value:6
+Key: COMMONPROGRAMW6432 , Value:C:\Program Files\Common Files
+Key: OS , Value:Windows_NT
+Key: PUBLIC , Value:C:\Users\Public
+Key: USERPROFILE , Value:C:\Users\yoav.e

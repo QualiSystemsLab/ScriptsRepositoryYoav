@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="826ad35a-5a8a-41c3-8c28-d25019039e18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/getAllShellfoundryTemplates/getTemplates.py" beforeDir="false" afterPath="$PROJECT_DIR$/getAllShellfoundryTemplates/getTemplates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retrievelogsservice/ciscoesarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/retrievelogsservice/ciscoesarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory/do_inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shells/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shells/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shells/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,60 +17,53 @@
     <session id="2015134024">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="1" />
-          <entry key="py" value="3" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="22" />
-          <entry key="py" value="271" />
+          <entry key="py" value="277" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="293" />
+          <entry key="Python" value="299" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getAllShellfoundryTemplates/debug.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/retrievelogsservice/ciscoesarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Inventory/do_inventory.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -80,12 +75,13 @@
         <option value="$PROJECT_DIR$/getAllShellfoundryTemplates/debug.py" />
         <option value="$PROJECT_DIR$/getAllShellfoundryTemplates/getTemplates.py" />
         <option value="$PROJECT_DIR$/retrievelogsservice/ciscoesarray.py" />
+        <option value="$PROJECT_DIR$/Inventory/do_inventory.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="205" />
-    <option name="y" value="77" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="552" />
+    <option name="y" value="84" />
     <option name="width" value="1346" />
     <option name="height" value="897" />
   </component>
@@ -102,11 +98,6 @@
               <item name="Hacks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Hacks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Hacks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hacks" type="462c0819:PsiDirectoryNode" />
-              <item name="retrievelogsservice" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -115,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -172,10 +163,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="552" y="84" width="1346" height="897" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1406744" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20412844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,9 +192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -212,6 +199,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrievelogsservice/ciscoesarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -225,12 +219,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retrievelogsservice/ciscoesarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Inventory/do_inventory.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

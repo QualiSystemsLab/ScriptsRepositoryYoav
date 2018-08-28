@@ -1,8 +1,8 @@
 import cloudshell.api.cloudshell_api as api
 
-username = 'admin'
-password = 'admin'
-server = 'localhost'
+username = 'nati.k'
+password = '1111'
+server = '40.113.155.10'
 domain = 'Global'
 
 session = api.CloudShellAPISession(
@@ -12,9 +12,6 @@ session = api.CloudShellAPISession(
     host=server
 )
 
-session.AddResourcesToDomain(
-    domainName='',
-    resourcesNames=['res1, res2'],
-    includeDecendants=True
-)
+res_det = session.GetReservationDetails('5f4b9ad5-7dbd-43c8-a36d-e5aaf9c7e155').ReservationDescription.Services
+
 pass

@@ -28,16 +28,3 @@ class CreateSession():
         outp.append(self.send_terminal_command('set server {}\r\n'.format(self.splunk_address)))
         outp.append(self.send_terminal_command('end\r\n'))
         return outp
-
-
-class CreateSessionSimpleCase():
-
-    def create_my_session(self):
-        cli = CLI()
-        mode = CommandMode(r'#') # for example r'%\s*$'
-
-        session_types = [SSHSession(host='192.168.42.169',username='admin',password='p@ssw0rd')]
-
-        with cli.get_session(session_types, mode) as default_session:
-            out = default_session.send_command('help')
-            print(out)
