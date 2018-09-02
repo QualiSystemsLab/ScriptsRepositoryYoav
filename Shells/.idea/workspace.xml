@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c42b7e-b345-4684-85a6-2f8e0e378280" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hacks/Environment_vars/environ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hacks/Inventory/do_inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hacks/all_env_vars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ixvm/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ixvm/src/license_ssh_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/checkpoint_handler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/checkpoint_handler/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/checkpoint_handler/cloudshell_cli_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/checkpoint_handler/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projects/checkpoint_handler/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hacks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hacks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/register_splunk/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/register_splunk/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/register_splunk/cloudshell_cli_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/register_splunk/cloudshell_cli_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projects/register_splunk/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Projects/register_splunk/debug.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Samples/Debuggers/debug_with_session_empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Samples/Debuggers/debug_with_session_empty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Samples/Orchestrations/Setups/setup_with_L1_connect_and_L2_config/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Samples/Orchestrations/Setups/setup_with_L1_connect_and_L2_config/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Samples/Orchestrations/Setups/setup_with_L1_connect_and_L2_config/setup_with_L1_connect_and_L2_config.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abcedswitch/src/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/abcedswitch/src/driver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +22,7 @@
     <session id="-713156245">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="2" />
@@ -175,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="205" />
     <option name="y" value="77" />
     <option name="width" value="1346" />
@@ -348,10 +343,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="205" y="77" width="1346" height="897" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1414373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18809272" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

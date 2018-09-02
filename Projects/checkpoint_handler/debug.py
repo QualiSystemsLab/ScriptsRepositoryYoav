@@ -5,7 +5,7 @@ def get_debug_session():
     password = '1111'
     domain = 'Global'
     server = '40.113.155.10'
-    resId = '5a1a7178-697a-4273-a99e-f85e4a734654'
+    resId = '5f4b9ad5-7dbd-43c8-a36d-e5aaf9c7e155'
     dev_helpers.attach_to_cloudshell_as(
         user=username,
         password=password,

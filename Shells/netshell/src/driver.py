@@ -10,9 +10,9 @@ from cloudshell.shell.core.driver_context import InitCommandContext, ResourceCom
     AutoLoadAttribute, AutoLoadDetails, CancellationContext
 
 
-#from data_model import *  # run 'shellfoundry generate' to generate data model classes
+from data_model import *  # run 'shellfoundry generate' to generate data model classes
 
-class AbcedswitchDriver (ResourceDriverInterface):
+class NetshellDriver (ResourceDriverInterface):
 
     def __init__(self):
         """
@@ -211,8 +211,8 @@ class AbcedswitchDriver (ResourceDriverInterface):
         # In real life, this code will be preceded by SNMP/other calls to the resource details and will not be static
         # run 'shellfoundry generate' in order to create classes that represent your data model
 
-
-        resource = Abcedswitch.create_from_context(context)
+        
+        resource = Netshell.create_from_context(context)
         resource.vendor = 'specify the shell vendor'
         resource.model = 'specify the shell model'
 

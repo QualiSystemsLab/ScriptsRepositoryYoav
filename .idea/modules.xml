@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SchedulingAPI/.idea/SchedulingAPI.iml" filepath="$PROJECT_DIR$/../SchedulingAPI/.idea/SchedulingAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" filepath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../customers/Skybox/.idea/Skybox.iml" filepath="$PROJECT_DIR$/../customers/Skybox/.idea/Skybox.iml" />
     </modules>
   </component>
 </project>

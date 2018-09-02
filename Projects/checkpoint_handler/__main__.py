@@ -13,8 +13,6 @@ session = script_helpers.get_api_session()
 resources = session.GetReservationDetails(res_id).ReservationDescription.Resources
 
 password = script_helpers.get_resource_context_details().attributes.get('{0}.Admin Password'.format(script_helpers.get_resource_context_details().model))
-username = script_helpers.get_resource_context_details().attributes.get('{0}.Admin Username'.format(script_helpers.get_resource_context_details().model))
-host = script_helpers.get_resource_context_details().attributes.get('{0}.Address'.format(script_helpers.get_resource_context_details().model))
 
 i = 0
 while i < 5:
@@ -25,12 +23,9 @@ while i < 5:
     i = i + 1
 
 CS_Cli = cloudshell_cli_handler.CreateSession(
-    host=host,
-    username=username,
+    host=script_helpers.get_resource_context_details().address,
+    username=script_helpers.get_resource_context_details().attributes.get('{0}.Admin Username'.format(script_helpers.get_resource_context_details().model)),
     password=password
 )
-outp = CS_Cli.send_terminal_command('\r\n')
-outp = CS_Cli.send_terminal_command('show log setting\r\n')
-print outp
 pass
 

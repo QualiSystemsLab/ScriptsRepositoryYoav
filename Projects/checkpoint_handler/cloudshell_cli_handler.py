@@ -6,7 +6,7 @@ class CreateSession():
 
     def __init__(self, host, username, password):
         self.cli = CLI()
-        self.mode = CommandMode(r'#') # for example r'%\s*$'
+        self.mode = CommandMode(r'#')# for example r'%\s*$'
 
         self.session_types = [SSHSession(host=host,
                                          username=username,
@@ -16,9 +16,9 @@ class CreateSession():
                                             new_sessions=self.session_types)
 
     def send_terminal_command(self, command):
-        with self.session as my_session:
-            out = my_session.send_command(command)
-            return out
+
+        out = self.session.send_command(command)
+        print(out)
 
     def config_license(self):
         outp = []

@@ -12,6 +12,11 @@ session = api.CloudShellAPISession(
     host=server
 )
 
-res_det = session.GetReservationDetails('5f4b9ad5-7dbd-43c8-a36d-e5aaf9c7e155').ReservationDescription.Services
-
+res_det = session.GetReservationDetails('5f4b9ad5-7dbd-43c8-a36d-e5aaf9c7e155').ReservationDescription.Resources
+cp_machine = [res for res in res_det if res.Name.__contains__('checkpoint')][0].Name
+session.SetAttributeValue(
+    resourceFullPath=cp_machine,
+    attributeName='User',
+    attributeValue="admin"
+)
 pass
