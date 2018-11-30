@@ -8,6 +8,7 @@ from msrestazure.azure_active_directory import ServicePrincipalCredentials
 from cloudshell.cp.azure.common.singletons import SingletonByArgsMeta
 from cloudshell.cp.azure.common.singletons import AbstractComparableInstance
 
+from cloudshell.api.cloudshell_api import CloudShellAPISession
 
 class AzureClientsManager(AbstractComparableInstance):
     __metaclass__ = SingletonByArgsMeta
@@ -106,36 +107,66 @@ class AzureClientsManager(AbstractComparableInstance):
         return self._subscription_client
 
 
+
+
+
 class CloudProvider(object):
-    def __init__(self):
-        self.azure_subscription_id = '2e7282ee-327d-489d-a984-ba05199ce714'
-        self.azure_tenant = '2ddf94f6-3085-43a9-8545-d589001de126'
-        self.azure_application_key = 'ZrRB6q03jqIODXtEdISs0+36hYzvLk87x5fBh8Wwzbk='
-        self.azure_application_id = '271525dd-b4c1-4f7b-8cff-0b4edb0b72b2'
+    def __init__(self, azure_subscription_id, azure_tenant, azure_application_key, azure_application_id ):
+        self.azure_subscription_id = azure_subscription_id
+        self.azure_tenant = azure_tenant
+        self.azure_application_key = azure_application_key
+        self.azure_application_id = azure_application_id
 
 
-resource_group = '79e8de37-a35b-4121-a37c-195fe6ae4233'
-vm_name = 'azurevm-fb17ff68'
-clp = CloudProvider()
+
+# Cloudshell debug
+user = 'admin'
+password = 'Itbabyl0n'
+server = '40.118.18.233'
+azure_cp_name = 'azure'
+session = CloudShellAPISession(host=server, username=user, password=password, domain='Global')
+# vnet =[attr.Value for attr in azcp.ResourceAttributes if attr.Name == ''][0]
+vnet = 'CloudShell-Sandbox-VNet'
+
+
+
+resource_group = 'f0cc36e4-33be-44a8-8a8b-ab3cfc6faa99'
+vm_name = 'apache-web-server-9883d10f'
+
+
+azcp = session.GetResourceDetails(azure_cp_name)
+clp = CloudProvider(
+    azure_application_id=[attr.Value for attr in azcp.ResourceAttributes if attr.Name == 'Azure Application ID'][0],
+    azure_subscription_id=[attr.Value for attr in azcp.ResourceAttributes if attr.Name == 'Azure Subscription ID'][
+        0],
+    azure_tenant=[attr.Value for attr in azcp.ResourceAttributes if attr.Name == 'Azure Tenant ID'][0],
+    azure_application_key=session.DecryptPassword(
+        [attr.Value for attr in azcp.ResourceAttributes if attr.Name == 'Azure Application Key'][0]).Value,
+)
 clients = AzureClientsManager(cloud_provider=clp)
 vm = clients.compute_client.virtual_machines.get(resource_group_name=resource_group, vm_name=vm_name)
 nic_name = vm.network_profile.network_interfaces[0].id.split('/')[-1]
 nic = clients.network_client.network_interfaces.get(resource_group_name=resource_group, network_interface_name=nic_name)
 print vm.name
 # my actual code:
-qq = clients.network_client.public_ip_addresses.get(
-    resource_group_name=resource_group,
-    public_ip_address_name=vm.name
-)
-new_domain_name = 'qqqqq'
-qq.domain_name_label = new_domain_name
-qq.dns_settings.domain_name_label = new_domain_name
-qq.dns_settings.fqdn = '{0}.westeurope.cloudapp.azure.com'.format(new_domain_name)
-qq.fqdn = '{0}.westeurope.cloudapp.azure.com'.format(new_domain_name)
+def enable_ipf_on_nic(nic_name):
+    my_nic = clients.network_client.network_interfaces.get(
+        resource_group_name=resource_group,
+        network_interface_name=nic_name
+    )
+    my_nic.enable_ip_forwarding = True
+    clients.network_client.network_interfaces.create_or_update(
+        resource_group_name=resource_group,
+        network_interface_name=nic_name,
+        parameters=my_nic
+    )
 
-clients.network_client.public_ip_addresses.create_or_update(
-    resource_group_name=resource_group,
-    public_ip_address_name=vm.name,
-    parameters=qq
-)
+def enable_ipf_on_vm(vm_name):
+    my_vm = clients.compute_client.virtual_machines.get(
+        resource_group_name=resource_group,
+        vm_name=vm_name
+    )
+    nics = [x.id.split('/')[-1] for x in my_vm.network_profile.network_interfaces]
+    for nic in nics:
+        enable_ipf_on_nic(nic)
 pass

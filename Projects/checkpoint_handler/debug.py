@@ -5,12 +5,12 @@ def get_debug_session():
     password = '1111'
     domain = 'Global'
     server = '40.113.155.10'
-    resId = '5f4b9ad5-7dbd-43c8-a36d-e5aaf9c7e155'
+    resId = 'a3abeb7b-794f-485a-ab9a-9d82b97a8beb'
     dev_helpers.attach_to_cloudshell_as(
         user=username,
         password=password,
         domain=domain,
         server_address=server,
         reservation_id=resId,
-        service_name='FortiWeb'
+        service_name='CheckpointMgmt'
     )

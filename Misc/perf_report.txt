@@ -1,0 +1,53 @@
+                              Name of Process :  Time Taken    : Time Started
+----------------------------------------------------------------------------------------------------------------------------------
+           _deploy_single_firewall___9153e8d6 : 0:00:00.274000 : 08:55:05,200
+               _deploy_ARM_element___b31e2378 : 0:00:00.131000 : 08:55:05,226
+           _deploy_single_firewall___fd29e4da : 0:00:00.531000 : 08:55:05,476
+               _deploy_ARM_element___49bd3850 : 0:00:00.233000 : 08:55:05,599
+           _deploy_single_firewall___bda441ad : 0:00:00.148000 : 08:55:06,009
+               _deploy_ARM_element___44e27805 : 0:00:00.058000 : 08:55:06,040
+           _deploy_single_firewall___c0bc30cc : 0:00:02.004000 : 08:55:06,157
+               _deploy_ARM_element___c6a79b30 : 0:00:01.046000 : 08:55:06,187
+                      power_all_on___212900ef : 0:00:00.770000 : 09:03:54,134
+                   _poll_fortigate___d8e8bec6 : 0:07:20.569000 : 09:08:07,437
+                   _poll_fortigate___b09ce85d : 0:00:16.478000 : 09:08:07,437
+                        _poll_vsrx___429a4149 : 0:01:51.961000 : 09:12:29,667
+            _run_configure_on_vsrx___595cb800 : 0:00:33.995000 : 09:14:21,630
+                   _poll_fortigate___3c34b1fc : 0:00:22.040000 : 09:15:48,009
+                   _poll_fortigate___f8f9f4e8 : 0:00:03.037000 : 09:16:30,052
+            _configure_checkpoints___0450e6d3 : 0:04:11.828000 : 09:23:20,263
+                  _copy_hosts_file___1d4d3d08 : 0:01:04.516000 : 09:23:20,263
+                  _copy_hosts_file___a394515d : 0:00:34.737000 : 09:23:20,266
+_checkpoint_set_internet_interface___41dc369e : 0:00:08.010000 : 09:23:27,924
+      _checkpoint_set_sic_password___9d351f37 : 0:00:25.050000 : 09:23:35,936
+           _checkpoint_set_gateway___ec865a41 : 0:01:10.960000 : 09:24:00,986
+_set_checkpoint_policy_as_standard___b9c7975d : 0:00:25.527000 : 09:25:20,947
+_set_checkpoint_policy_as_standard___68db8ff0 : 0:00:24.533000 : 09:25:56,476
+_set_checkpoint_policy_as_standard___3cda762c : 0:00:13.523000 : 09:26:31,012
+_set_checkpoint_policy_as_standard___133b2753 : 0:00:14.030000 : 09:26:54,538
+_set_checkpoint_policy_as_standard___0d098796 : 0:00:13.520000 : 09:27:18,569
+            _configure_checkpoints___b2f9b7c1 : 0:05:52.881000 : 09:27:32,092
+_checkpoint_set_internet_interface___ea8f11a6 : 0:00:05.871000 : 09:27:35,345
+      _checkpoint_set_sic_password___23f27c0f : 0:00:22.036000 : 09:27:41,216
+           _checkpoint_set_gateway___fdb3c68d : 0:00:05.868000 : 09:28:03,253
+_set_checkpoint_policy_as_standard___0163a7c5 : 0:00:54.063000 : 09:28:16,634
+_set_checkpoint_policy_as_standard___1c01f1f5 : 0:00:53.573000 : 09:29:20,697
+_set_checkpoint_policy_as_standard___4739a305 : 0:00:53.566000 : 09:30:24,273
+_set_checkpoint_policy_as_standard___19f41372 : 0:00:53.559000 : 09:31:27,842
+_set_checkpoint_policy_as_standard___f908570a : 0:00:53.567000 : 09:32:31,404
+            _configure_checkpoints___fdf311b6 : 0:06:02.887000 : 09:33:24,974
+_checkpoint_set_internet_interface___16c59e99 : 0:00:07.009000 : 09:33:34,575
+      _checkpoint_set_sic_password___5e13988d : 0:00:23.524000 : 09:33:41,584
+           _checkpoint_set_gateway___9347d1fa : 0:00:05.899000 : 09:34:05,108
+_set_checkpoint_policy_as_standard___79e17729 : 0:00:53.556000 : 09:34:18,017
+_set_checkpoint_policy_as_standard___361aeb1e : 0:00:54.078000 : 09:35:21,575
+_set_checkpoint_policy_as_standard___faccd7af : 0:00:54.567000 : 09:36:25,654
+_set_checkpoint_policy_as_standard___e2c3f8ac : 0:00:53.566000 : 09:37:30,223
+_set_checkpoint_policy_as_standard___59be0452 : 0:00:54.069000 : 09:38:33,790
+
+  Global start                                            08:55:05,200
+  Global End                                              09:39:27,861
+  Time Taken for the entire Setup:                      0:44:22.661000 
+
+
+
