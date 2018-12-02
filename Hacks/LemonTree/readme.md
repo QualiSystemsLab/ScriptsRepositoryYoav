@@ -1,3 +1,3 @@
 
-![Alt text](screenshot.png?raw=true "end result")
+![End Result](/Screenshot.png?raw=true "end result")
 
