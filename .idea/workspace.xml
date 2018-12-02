@@ -2,43 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f371bdee-e1eb-4f0e-b275-7375ca370269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Hacks/LemonTree/data_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/LemonTree/data_model_cp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/dispro/disamatuer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/clean_perf_log_skybox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/cp_example/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/cp_example/cloudshell_cli_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/cp_example/cp_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/decorator_test/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/decorator_test/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/parallel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/path_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/testhelp/setappsecuritygroup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/Debugger_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/bebugger_fortigate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_sb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/empty_debugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/measure_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/sb_all_active_sbs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/sb_debugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/subnets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debuging/cidr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacks/LemonTree/cloudshell_firewall_standard_3_0_1.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hacks/LemonTree/data_model_fw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/checkpoint_handler/cloudshell_cli_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/checkpoint_handler/cloudshell_cli_handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/checkpoint_handler/debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/checkpoint_handler/debug.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Debuggers/Azure_debugger/Azure_debugger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Debuggers/Azure_debugger/Azure_debugger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_empty.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_empty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.0/Default Sandbox Setup 2.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/Default Sandbox Setup 2.0.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.0/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.0/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.0/blueprint_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/blueprint_commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.0/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.0/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacks/LemonTree/example1_graph.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacks/LemonTree/mytree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacks/LemonTree/temp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hacks/LemonTree/tree_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacks/LemonTree/tree_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +22,7 @@
     <session id="-576877396">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="2" />
@@ -62,20 +34,22 @@
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.8" value="8" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="6" />
           <entry key="md" value="1" />
+          <entry key="meta" value="1" />
           <entry key="png" value="4" />
-          <entry key="py" value="745" />
+          <entry key="py" value="751" />
+          <entry key="rst" value="1" />
           <entry key="txt" value="36" />
-          <entry key="xml" value="6" />
-          <entry key="yaml" value="37" />
+          <entry key="xml" value="8" />
+          <entry key="yaml" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -84,18 +58,19 @@
           <entry key="Image" value="4" />
           <entry key="JSON" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="745" />
-          <entry key="XML" value="6" />
-          <entry key="YAML" value="37" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="751" />
+          <entry key="ReST" value="1" />
+          <entry key="XML" value="8" />
+          <entry key="YAML" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1186" />
+          <entry key="Python Console" value="1299" />
           <entry key="dummy" value="47" />
           <entry key="json" value="53" />
-          <entry key="py" value="67643" />
+          <entry key="py" value="69994" />
           <entry key="txt" value="220" />
           <entry key="yaml" value="787" />
         </counts>
@@ -105,7 +80,7 @@
           <entry key="Hoi4 file" value="220" />
           <entry key="JSON" value="53" />
           <entry key="PLAIN_TEXT" value="47" />
-          <entry key="Python" value="68829" />
+          <entry key="Python" value="71293" />
           <entry key="YAML" value="787" />
         </counts>
       </usages-collector>
@@ -113,61 +88,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="48" column="28" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="28" />
+            <state relative-caret-position="209">
+              <caret line="109" column="45" lean-forward="true" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
-                <marker date="1543514910627" expanded="true" signature="138:143" ph="..." />
-                <marker date="1543514910627" expanded="true" signature="206:215" ph="..." />
-                <marker date="1543514910627" expanded="true" signature="461:1057" ph="..." />
-                <marker date="1543514910627" expanded="true" signature="1542:1657" ph="..." />
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1543656309183" expanded="true" signature="97:653" ph="..." />
+                <marker date="1543656309183" expanded="true" signature="710:715" ph="..." />
+                <marker date="1543656309183" expanded="true" signature="778:787" ph="..." />
+                <marker date="1543656309183" expanded="true" signature="1033:2888" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/tree_builder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="126" selection-start-line="126" selection-end-line="126" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python27/Lib/site-packages/ete2/coretype/tree.py">
+        <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python27/Lib/site-packages/ete2/treeview/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2981">
-              <caret line="421" column="8" selection-start-line="421" selection-start-column="8" selection-end-line="421" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/data_model_cp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="697" column="16" selection-start-line="697" selection-start-column="6" selection-end-line="697" selection-end-column="16" />
+            <state relative-caret-position="5025">
+              <caret line="217" column="43" selection-start-line="217" selection-start-column="43" selection-end-line="217" selection-end-column="43" />
               <folding>
-                <element signature="e#201#3308#0" />
-                <element signature="e#3338#22703#0" />
-                <element signature="e#22738#28503#0" />
-                <element signature="e#28542#34493#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/checkpoint/src/cloudshell_cli_handler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,16 +139,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>deploy</find>
-      <find>vm</find>
-      <find>reserva</find>
-      <find>stat</find>
-      <find>add_ni</find>
-      <find>stop</find>
-      <find>tok</find>
-      <find>Session</find>
-      <find>driver</find>
-      <find>session</find>
       <find>_sendRequest</find>
       <find>send</find>
       <find>sessio</find>
@@ -214,6 +159,16 @@
       <find>inve</find>
       <find>Port</find>
       <find>ResourcePo</find>
+      <find>model_name</find>
+      <find>console_po</find>
+      <find>module</find>
+      <find>create_fr</find>
+      <find>_get_relative_path</find>
+      <find>parent</find>
+      <find>migrate_autoload_details</find>
+      <find>AttachesTo</find>
+      <find>''</find>
+      <find>uuid</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -226,9 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Misc/cp_example/__init__.py" />
-        <option value="$PROJECT_DIR$/Misc/cp_example/cp_example.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/fortigate/src/fortigate_template.py" />
         <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/checkpoint_mgmt/src/cloudshell_cli_handler.py" />
         <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/change_hosts_file/change_hosts.py" />
         <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/drivers/vsrx_driver_v2_roni/configure_vsrx.py" />
@@ -276,13 +228,16 @@
         <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/checkpoint/src/driver.py" />
         <option value="$PROJECT_DIR$/Hacks/LemonTree.py" />
         <option value="$PROJECT_DIR$/Shells/coupler/src/driver.py" />
+        <option value="$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py" />
+        <option value="$PROJECT_DIR$/Hacks/LemonTree/data_model_fw.py" />
         <option value="$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py" />
+        <option value="$PROJECT_DIR$/Hacks/LemonTree/tree_builder.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="815" />
-    <option name="y" value="3" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="510" />
+    <option name="y" value="82" />
     <option name="width" value="1094" />
     <option name="height" value="1019" />
   </component>
@@ -294,6 +249,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,20 +277,66 @@
               <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScriptsRepositoryYoav" type="462c0819:PsiDirectoryNode" />
               <item name="Shells" type="462c0819:PsiDirectoryNode" />
-              <item name="coupler" type="462c0819:PsiDirectoryNode" />
+              <item name="mynewfirewall" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScriptsRepositoryYoav" type="462c0819:PsiDirectoryNode" />
               <item name="Shells" type="462c0819:PsiDirectoryNode" />
-              <item name="coupler" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mynewfirewall" type="462c0819:PsiDirectoryNode" />
+              <item name="TOSCA-Metadata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="retry_with_logger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="retry_with_logger" type="462c0819:PsiDirectoryNode" />
+              <item name="retrying_with_qslogger.egg-info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="retry_with_logger" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="retry_with_logger" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="retrying_qslogger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,19 +346,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Hacks\LemonTree" />
-      <recent name="E:\Github\Quali\customers\Skybox\Skybox\shells\azuresupplementcommands\src" />
-      <recent name="E:\Github\Quali\customers\Skybox\Skybox\shells\checkpoint_mgmt\src" />
-      <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Misc\cp_example" />
-      <recent name="E:\Github\Quali\customers\Skybox\Skybox\scripts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Hacks\LemonTree" />
       <recent name="E:\Github\Quali\customers\Skybox\Skybox\scripts\retry_with_logger\source" />
       <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Misc\decorator_test" />
       <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Misc\cp_example" />
       <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Samples\Debuggers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Hacks\LemonTree" />
+      <recent name="E:\Github\Quali\customers\Skybox\Skybox\shells\azuresupplementcommands\src" />
+      <recent name="E:\Github\Quali\customers\Skybox\Skybox\shells\checkpoint_mgmt\src" />
+      <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Misc\cp_example" />
+      <recent name="E:\Github\Quali\customers\Skybox\Skybox\scripts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -508,15 +510,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18440464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4219089" />
-      <window_info anchor="bottom" x="258" y="161" width="1273" height="642" id="Debug" order="3" type="WINDOWED" visible="true" weight="0.45444685" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4078091" />
+      <window_info anchor="bottom" x="2022" y="183" width="1273" height="642" id="Debug" order="3" type="WINDOWED" weight="0.45444685" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -751,14 +754,9 @@
           <option name="timeStamp" value="338" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="357" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py</url>
-          <line>56</line>
-          <option name="timeStamp" value="358" />
+          <url>file://$PROJECT_DIR$/Hacks/LemonTree/tree_builder.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="390" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -780,100 +778,10 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/core/logger/qs_logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="125" column="8" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/fortigate/src/cloudshell_cli_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/fortigate/src/fortigate_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4294">
-          <caret line="264" column="7" selection-start-line="264" selection-start-column="7" selection-end-line="264" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/add_nic_to_vm/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="4" selection-start-line="7" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/drivers/vsrx_driver_v2_roni/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/shell/core/driver_context.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/helpers/scripts/cloudshell_scripts_helpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/helpers/scripts/cloudshell_dev_helpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="45" column="54" lean-forward="true" selection-start-line="45" selection-start-column="54" selection-end-line="45" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Misc/clean_perf_log_skybox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="49" column="54" lean-forward="true" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Samples/Debuggers/debugger_sb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/generic_template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="184" selection-start-line="184" selection-end-line="191" />
-          <folding>
-            <element signature="e#0#96#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,9 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#91#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -891,19 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
           <caret line="455" selection-start-line="455" selection-end-line="455" />
-          <folding>
-            <element signature="e#0#82#0" expanded="true" />
-            <marker date="1543244638356" expanded="true" signature="1525:1599" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="3959:4075" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="6716:6797" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="7616:7658" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="8527:8659" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="9380:9468" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="10698:10815" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="14619:14660" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="14693:14698" ph="..." />
-            <marker date="1543244638356" expanded="true" signature="18820:18871" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,18 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="469">
           <caret line="439" column="19" lean-forward="true" selection-start-line="439" selection-start-column="19" selection-end-line="439" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#98#0" expanded="true" />
-            <marker date="1543248419343" expanded="true" signature="2741:2833" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="5801:5917" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="7405:7486" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="8325:8405" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="10550:10672" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="12521:12682" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="15224:15394" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="15330:15339" ph="..." />
-            <marker date="1543248419343" expanded="true" signature="18197:18323" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -944,9 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="196" selection-start-line="196" selection-end-line="209" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -964,16 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/retry_with_logger/source/retrying_qslogger/retrying_qslogger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="74" column="37" lean-forward="true" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
-          <folding>
-            <element signature="e#589#633#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/all_sandbox_info/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -985,9 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
           <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -995,29 +859,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="51" column="26" lean-forward="true" selection-end-line="96" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.2/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Samples/Orchestrations/Setups/Default Sandbox Setup 2.1/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://C:/Python27/Lib/site-packages/cloudshell/workflow/orchestration/components.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1044,28 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
           <caret line="168" column="19" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-            <marker date="1543479140915" expanded="true" signature="1674:1978" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="2004:2082" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="2043:2082" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="5129:5190" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="6621:7768" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="6988:7768" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="9094:9103" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="10963:10972" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="13527:13536" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="15202:15211" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="16455:16749" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="16455:16789" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="19311:19590" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="19704:20018" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="22592:22601" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="23661:23670" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="28844:28909" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="29003:29012" ph="..." />
-            <marker date="1543479140915" expanded="true" signature="31395:31396" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1090,10 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="914">
           <caret line="171" lean-forward="true" selection-start-line="171" selection-end-line="171" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-            <element signature="e#6064#7453#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1146,21 +969,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/checkpoint/src/cloudshell_cli_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/jgraph/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/example1_graph.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/example1_graph.png" />
     <entry file="file://C:/Python27/Lib/site-packages/pydot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="601">
@@ -1186,11 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="441" column="9" selection-start-line="441" selection-start-column="9" selection-end-line="441" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#98#0" expanded="true" />
-            <marker date="1543504902078" expanded="true" signature="4483:7137" ph="..." />
-            <marker date="1543504902078" expanded="true" signature="10655:12105" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1198,9 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1215,49 +1019,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" />
-          <folding>
-            <element signature="e#0#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/ete2/treeview/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2981">
-          <caret line="421" column="8" selection-start-line="421" selection-start-column="8" selection-end-line="421" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/data_model_cp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="697" column="16" selection-start-line="697" selection-start-column="6" selection-end-line="697" selection-end-column="16" />
-          <folding>
-            <element signature="e#201#3308#0" />
-            <element signature="e#3338#22703#0" />
-            <element signature="e#22738#28503#0" />
-            <element signature="e#28542#34493#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python27/Lib/site-packages/ete2/coretype/tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
+        <state relative-caret-position="2900">
           <caret line="125" column="18" selection-start-line="125" selection-start-column="18" selection-end-line="125" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/ete2/treeview/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10250">
+          <caret line="421" column="8" selection-start-line="421" selection-start-column="8" selection-end-line="421" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/checkpoint/src/cloudshell_cli_handler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/data_model_cp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="487" column="18" selection-start-line="487" selection-start-column="8" selection-end-line="487" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/TOSCA-Metadata/TOSCA.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/deployment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/src/drivermetadata.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/docs/readme.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/shell-definition.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/src/data_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/cloudshell_firewall_standard_3_0_1.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="56" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5025">
+          <caret line="217" column="43" selection-start-line="217" selection-start-column="43" selection-end-line="217" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="28" />
+        <state relative-caret-position="209">
+          <caret line="109" column="45" lean-forward="true" selection-start-line="109" selection-start-column="45" selection-end-line="109" selection-end-column="45" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
-            <marker date="1543514910627" expanded="true" signature="138:143" ph="..." />
-            <marker date="1543514910627" expanded="true" signature="206:215" ph="..." />
-            <marker date="1543514910627" expanded="true" signature="461:1057" ph="..." />
-            <marker date="1543514910627" expanded="true" signature="1542:1657" ph="..." />
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1543656309183" expanded="true" signature="97:653" ph="..." />
+            <marker date="1543656309183" expanded="true" signature="710:715" ph="..." />
+            <marker date="1543656309183" expanded="true" signature="778:787" ph="..." />
+            <marker date="1543656309183" expanded="true" signature="1033:2888" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/data_model_fw.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/retry_with_logger/source/retrying_qslogger/retrying_qslogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="226" selection-start-line="226" selection-end-line="227" selection-end-column="36" />
+          <folding>
+            <element signature="e#589#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hacks/LemonTree/tree_builder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="126" selection-start-line="126" selection-end-line="126" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>

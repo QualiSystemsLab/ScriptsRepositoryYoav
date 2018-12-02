@@ -239,6 +239,7 @@ class MynewfirewallDriver (ResourceDriverInterface):
             port1.ipv4_address = '192.168.10.{}'.format(str(i))
             module1.add_sub_resource('{}'.format(str(i)), port1)
 
+
         return resource.create_autoload_details()
 
         # return AutoLoadDetails([], [])
