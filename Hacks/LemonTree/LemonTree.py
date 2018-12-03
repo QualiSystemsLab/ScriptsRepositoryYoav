@@ -104,6 +104,8 @@ for class_name in classes:
 levels, root_name_standard = deal_with_standard(levels)
 root_name_dm = [level for level in levels if level.Parent == []][0].Name
 for level in levels:
+    if root_name_dm in level.Parent:
+        level.Parent.remove(root_name_dm)
     if root_name_standard in level.Parent:
         level.Parent.remove(root_name_standard)
         if root_name_dm not in level.Parent:

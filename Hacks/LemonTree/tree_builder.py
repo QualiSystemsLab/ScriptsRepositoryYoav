@@ -18,6 +18,7 @@ class SubWindow(tk.Frame):
             children += self.get_all_children(item=child)
         return children
 
+
     def draw_tree(self, levels):
         self.current_selection = None
         self.tree = ttk.Treeview(self.x)
@@ -36,32 +37,27 @@ class SubWindow(tk.Frame):
                     skipped.append(level)
             else:
                 for apperant in level.Parent:
-                    if apperant in my_items:
-                        if apperant not in skipped and level not in skipped:
-                            self.tree.insert(
-                                parent=apperant,
-                                index=j,
-                                iid=level.Name,
-                                text=level.Name
-                            )
-                            skipped.append(level)
-                        elif apperant not in skipped and level in skipped:
-                            self.tree.insert(
-                                parent=apperant,
-                                index=j,
-                                iid='{}_{}'.format(level.Name, self._get_short_uuid()),
-                                text=level.Name
-                            )
-                    else:
+                    if apperant not in my_items:
                         needed_parent = [par_level for par_level in levels if par_level.Name == apperant][0]
                         if needed_parent not in skipped:
                             self.tree.insert(
-                                parent=needed_parent.Parent,
+                                parent=needed_parent.Parent[0],
                                 index=j,
                                 iid=needed_parent.Name,
                                 text=needed_parent.Name
                             )
                             skipped.append(needed_parent)
+        for j, level in enumerate(levels):
+            my_items = self.get_all_children()
+            for apperant in level.Parent:
+                if level.Name not in my_items:
+                    self.tree.insert(
+                        parent=apperant,
+                        index=j,
+                        iid='{}_{}'.format(level.Name, self._get_short_uuid()),
+                        text=level.Name
+                    )
+
 
             self.tree.bind('<<TreeviewSelect>>', self.foo)
             self.tree.config(selectmode='browse')
