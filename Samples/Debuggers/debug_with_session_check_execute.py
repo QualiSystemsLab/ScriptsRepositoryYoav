@@ -1,5 +1,5 @@
 import cloudshell.api.cloudshell_api as api
-from domain_constants_essity import *
+
 username = 'admin'
 password = 'admin'
 server = 'localhost'
@@ -13,6 +13,4 @@ session = api.CloudShellAPISession(
     host=server
 )
 
-
-
-pass
+dec_password = session.DecryptPassword('string')

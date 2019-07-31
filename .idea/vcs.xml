@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ConfigParser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../allSandboxObjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../customers/Customer-BT-VPN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global" vcs="Git" />
   </component>
 </project>

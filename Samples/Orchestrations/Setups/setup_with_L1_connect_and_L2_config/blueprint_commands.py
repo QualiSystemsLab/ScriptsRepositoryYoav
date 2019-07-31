@@ -83,8 +83,6 @@ def connectL1Routes(sandbox, components):
                                                                "connecting source and target: " + route.Source + " " + route.Target)
         sandbox.automation_api.ConnectRoutesInReservation(sandbox.id, [route.Source,route.Target], 'bi')
 
-    pass
-
 
 def loadNetworkingDevicesConfig(sandbox, components):
     """

@@ -274,6 +274,7 @@ class MynewfirewallDriver (ResourceDriverInterface):
             message="Got {1} here ! {0}".format(context.resource.attributes.get('vendor'), some_input)
         )
 
+
     def _get_address(self, context, cancellation_context):
         """
         :param ResourceCommandContext context: The context object for the command with resource and reservation info

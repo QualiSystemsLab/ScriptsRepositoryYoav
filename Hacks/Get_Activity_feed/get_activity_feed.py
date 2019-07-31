@@ -8,11 +8,11 @@ class get_activity():
             'Accept': 'application/json',
         }
         self.login_data = {
-            "username": "admin",
-            "password": "admin",
+            "username": "yoav.e",
+            "password": "1234",
             "domain": "Global"
         }
-        self.hostname = 'localhost'
+        self.hostname = '40.91.201.107'
         self.port = '82'
 
     def convert_af_to_html(self, sbox_id):
@@ -49,7 +49,7 @@ class get_activity():
         html_page += '</table>\n</body>\n</html>\n'
         return html_page
 
-sbox_id = '721acec8-33c6-4855-b069-9d96d331bcdf'
+sbox_id = '9d90821c-7a4f-4c51-92c7-e4b9ff352a3b'
 af = get_activity()
 af.convert_af_to_html(sbox_id)
 pass

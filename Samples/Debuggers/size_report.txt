@@ -1,0 +1,37 @@
+VM Name                      	  VM Size
+---------------------------------------------------------
+apacheweb12-cc4ca309              Standard_A3 
+asav-977a3f07                     Standard_D3_v2
+secops1-976e9b1e                  Standard_A2_v2
+fortinet-1-0e2a3add               Standard_A4_v2
+pafw-1b3fc4d0                     Standard_D3_v2
+csr1000v-bd42f350                 Standard_A4_v2
+apache-web11-ecb9fba3             Standard_A3 
+apacheweb11-059d43b0              Standard_A3 
+w10c-c718f358                     Standard_A3 
+sbvsrv-b301bac8                   Standard_D16s_v3
+corevsrx-9f92f896                 Standard_DS4_v2
+tgt-f3d380cb                      Standard_A3 
+sbcollector-1f19bd7c              Standard_A3 
+secops2-9415b0db                  Standard_A2_v2
+f5loadbalancer-904cb877           Standard_A4_v2
+apache-web1-e924d9e8              Standard_A3 
+wancpfw-1ebdbd5b                  Standard_A4_v2
+cpman-0c9e37d3                    Standard_D3_v2
+w8c-8969d879                      Standard_A3 
+internaldb1-143ea4c9              Standard_A3 
+w12web-40d1972e                   Standard_A3 
+ws12c-7b08ce8e                    Standard_A3 
+webmain-b001d569                  Standard_A3 
+apacheweb1-7fe45f6a               Standard_A3 
+
+
+
+VM Size                       Count
+---------------------------------------------------------
+Standard_DS4_v2                1                        
+Standard_A4_v2                 4                        
+Standard_D16s_v3               1                        
+Standard_A3                    13                       
+Standard_D3_v2                 3                        
+Standard_A2_v2                 2                        

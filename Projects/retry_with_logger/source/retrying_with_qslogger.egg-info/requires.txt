@@ -1,0 +1,4 @@
+six
+cloudshell-core==2.2.180
+cloudshell-orch-core<1.7.6.0,>=1.7.5.0
+cloudshell-shell-core<4.1.0,>=4.0.0

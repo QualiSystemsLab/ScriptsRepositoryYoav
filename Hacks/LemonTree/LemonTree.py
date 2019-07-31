@@ -54,11 +54,10 @@ def get_props(fn):
     if temp_parent.__len__() > 1:
         level.Parent = [temp_parent[temp_parent.__len__() - 2]]
     variables = [i for i in variables if not i.__contains__('__')]
-    variables = [i for i in variables if  i[0] != '_']
-    variables = [i for i in variables if  i not in  ['Resources', 'Name', 'address', 'attributes',
-                                                     'add_sub_resource', 'create_autoload_details',
-                                                     'cloudshell_model_name', 'create_from_context']]
-
+    variables = [i for i in variables if i[0] != '_']
+    variables = [i for i in variables if i not in ['Resources', 'Name', 'address', 'attributes',
+                                                   'add_sub_resource', 'create_autoload_details',
+                                                   'cloudshell_model_name', 'create_from_context']]
 
     level.Name = fn.split('.')[-1]
     level.Attributes = variables
@@ -103,6 +102,7 @@ for class_name in classes:
 
 levels, root_name_standard = deal_with_standard(levels)
 root_name_dm = [level for level in levels if level.Parent == []][0].Name
+# xq = LazyCallable('data_model_fw.{}'.format(root_name_dm))
 for level in levels:
     if root_name_dm in level.Parent:
         level.Parent.remove(root_name_dm)

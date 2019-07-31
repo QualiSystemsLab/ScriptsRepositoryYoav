@@ -1,0 +1,2 @@
+six
+cloudshell-core==2.2.180

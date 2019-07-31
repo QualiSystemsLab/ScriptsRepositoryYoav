@@ -120,9 +120,9 @@ class CloudProvider(object):
 
 
 # Cloudshell debug
-user = 'admin'
-password = 'Itbabyl0n'
-server = '40.118.18.233'
+user = 'yoav.e'
+password = '1234'
+server = '40.91.201.107'
 azure_cp_name = 'azure'
 session = CloudShellAPISession(host=server, username=user, password=password, domain='Global')
 # vnet =[attr.Value for attr in azcp.ResourceAttributes if attr.Name == ''][0]
@@ -130,8 +130,8 @@ vnet = 'CloudShell-Sandbox-VNet'
 
 
 
-resource_group = 'f0cc36e4-33be-44a8-8a8b-ab3cfc6faa99'
-vm_name = 'apache-web-server-9883d10f'
+resource_group = '531679c2-eca6-4c4b-97d7-f217d544624d'
+# vm_name = 'apache-web-server-9883d10f'
 
 
 azcp = session.GetResourceDetails(azure_cp_name)
@@ -144,10 +144,10 @@ clp = CloudProvider(
         [attr.Value for attr in azcp.ResourceAttributes if attr.Name == 'Azure Application Key'][0]).Value,
 )
 clients = AzureClientsManager(cloud_provider=clp)
-vm = clients.compute_client.virtual_machines.get(resource_group_name=resource_group, vm_name=vm_name)
-nic_name = vm.network_profile.network_interfaces[0].id.split('/')[-1]
-nic = clients.network_client.network_interfaces.get(resource_group_name=resource_group, network_interface_name=nic_name)
-print vm.name
+# vm = clients.compute_client.virtual_machines.get(resource_group_name=resource_group, vm_name=vm_name)
+# nic_name = vm.network_profile.network_interfaces[0].id.split('/')[-1]
+# nic = clients.network_client.network_interfaces.get(resource_group_name=resource_group, network_interface_name=nic_name)
+# print vm.name
 # my actual code:
 def enable_ipf_on_nic(nic_name):
     my_nic = clients.network_client.network_interfaces.get(
@@ -169,4 +169,29 @@ def enable_ipf_on_vm(vm_name):
     nics = [x.id.split('/')[-1] for x in my_vm.network_profile.network_interfaces]
     for nic in nics:
         enable_ipf_on_nic(nic)
+
+all_subnets = clients.network_client.subnets.list(
+    resource_group_name='Quali-Dev',
+    virtual_network_name='CloudShell-Sandbox-VNet'
+)
+done = False
+count = 0
+condemed_subnets = []
+while done == False and count < 40:
+    count = count + 1
+    try:
+        temp_name = all_subnets.next().name
+        if resource_group in temp_name:
+            condemed_subnets.append(temp_name)
+    except:
+        done = True
+
+clients.network_client.subnets.delete(
+    resource_group_name='Quali-Dev',
+    virtual_network_name='CloudShell-Sandbox-VNet',
+    subnet_name='531679c2-eca6-4c4b-97d7-f217d544624d_10.252.0.160-28'
+)
+
+
 pass
+

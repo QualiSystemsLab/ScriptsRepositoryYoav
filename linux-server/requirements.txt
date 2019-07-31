@@ -1,0 +1,11 @@
+cloudshell-shell-core>=4.0.0,<4.1.0
+azure-mgmt-resource~=0.31.0
+azure-mgmt-compute~=0.33.0
+azure-mgmt-network~=0.30.0
+cloudshell-automation-api>=8.3.0.0,<8.3.1.0
+cloudshell-cp-azure
+paramiko
+cloudshell-cli>=3.3.0,<3.4.0
+retrying-with-qslogger
+requests
+qs_cs_config_parser

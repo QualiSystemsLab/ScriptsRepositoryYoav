@@ -1,0 +1,20 @@
+from setuptools import setup, find_packages
+
+setup(name='retrying_with_qslogger',
+      version='0.1.6',
+      description='',
+      author='',
+      url='',
+      license='',
+      classifiers=['Development Status :: 4 - Beta',
+                   'Environment :: Console',
+                   'Intended Audience :: End Users/Desktop',
+                   'Programming Language :: Python :: 2.7',
+                   'License :: OSI Approved :: License'],
+      packages=find_packages(),
+      package_data={'': ['*.txt']},
+      include_package_data=True,
+      # entry_points={'console_scripts': ['Retrying_with_qslogger = Retrying_qslogger:retry']},
+      install_requires=["six", "cloudshell-core==2.2.180",
+                        'cloudshell-orch-core>=1.7.5.0,<1.7.6.0',
+                        'cloudshell-shell-core>=4.0.0,<4.1.0'])
