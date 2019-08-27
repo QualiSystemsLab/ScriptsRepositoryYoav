@@ -23,13 +23,9 @@
     <orderEntry type="module" module-name="ScriptOrchestratorDriver (1)" />
     <orderEntry type="module" module-name="LogCollector-omri" />
     <orderEntry type="module" module-name="Customer-BT-VPN" />
-    <orderEntry type="module" module-name="a_pdu" />
-    <orderEntry type="module" module-name="Ansible_as_a_service" />
     <orderEntry type="module" module-name="Customer-Liberty-Global" />
     <orderEntry type="module" module-name="AnsibleDriver" />
-    <orderEntry type="module" module-name="Leonardo-POC" />
     <orderEntry type="module" module-name="AnsibleDriver" />
-    <orderEntry type="module" module-name="Azuresupplementcommands_before_security_remove" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

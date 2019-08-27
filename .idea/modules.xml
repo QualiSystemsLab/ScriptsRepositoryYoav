@@ -4,18 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../customers/Airties/.idea/Airties.iml" filepath="$PROJECT_DIR$/../customers/Airties/.idea/Airties.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/AnsibleDtv/AnsibleDriver/.idea/AnsibleDriver.iml" filepath="$USER_HOME$/Downloads/AnsibleDtv/AnsibleDriver/.idea/AnsibleDriver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Ansible_as_a_service/.idea/Ansible_as_a_service.iml" filepath="$PROJECT_DIR$/../Ansible_as_a_service/.idea/Ansible_as_a_service.iml" />
-      <module fileurl="file://$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove/.idea/Azuresupplementcommands_before_security_remove.iml" filepath="$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove/.idea/Azuresupplementcommands_before_security_remove.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ConfigParser/.idea/ConfigParser.iml" filepath="$PROJECT_DIR$/../ConfigParser/.idea/ConfigParser.iml" />
       <module fileurl="file://$PROJECT_DIR$/../customers/Customer-BT-VPN/.idea/Customer-BT-VPN.iml" filepath="$PROJECT_DIR$/../customers/Customer-BT-VPN/.idea/Customer-BT-VPN.iml" />
       <module fileurl="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/.idea/Customer-Liberty-Global.iml" filepath="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/.idea/Customer-Liberty-Global.iml" />
-      <module fileurl="file://$USER_HOME$/PycharmProjects/Leonardo-POC/.idea/Leonardo-POC.iml" filepath="$USER_HOME$/PycharmProjects/Leonardo-POC/.idea/Leonardo-POC.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LogCollector-omri/.idea/LogCollector-omri.iml" filepath="$PROJECT_DIR$/../LogCollector-omri/.idea/LogCollector-omri.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SchedulingAPI/.idea/SchedulingAPI.iml" filepath="$PROJECT_DIR$/../SchedulingAPI/.idea/SchedulingAPI.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/ScriptOrchestratorDriver (1)/.idea/ScriptOrchestratorDriver (1).iml" filepath="$USER_HOME$/Desktop/ScriptOrchestratorDriver (1)/.idea/ScriptOrchestratorDriver (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" filepath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" />
       <module fileurl="file://$PROJECT_DIR$/../customers/Skybox/.idea/Skybox.iml" filepath="$PROJECT_DIR$/../customers/Skybox/.idea/Skybox.iml" />
-      <module fileurl="file://$USER_HOME$/a_pdu/.idea/a_pdu.iml" filepath="$USER_HOME$/a_pdu/.idea/a_pdu.iml" />
       <module fileurl="file://$PROJECT_DIR$/../allSandboxObjects/.idea/allSandboxObjects.iml" filepath="$PROJECT_DIR$/../allSandboxObjects/.idea/allSandboxObjects.iml" />
       <module fileurl="file://E:/mine/.idea/mine.iml" filepath="E:/mine/.idea/mine.iml" />
       <module fileurl="file://$PROJECT_DIR$/../scriptFoundry/.idea/scriptFoundry.iml" filepath="$PROJECT_DIR$/../scriptFoundry/.idea/scriptFoundry.iml" />

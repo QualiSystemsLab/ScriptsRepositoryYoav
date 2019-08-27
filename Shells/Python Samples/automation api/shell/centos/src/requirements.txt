@@ -1,0 +1,7 @@
+cloudshell-shell-core>=4.0.0,<4.1.0
+cloudshell-automation-api>=8.3.0.0,<8.3.1.0
+paramiko
+cloudshell-cli>=3.3.0,<3.4.0
+requests
+
+

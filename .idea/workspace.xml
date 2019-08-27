@@ -2,171 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f371bdee-e1eb-4f0e-b275-7375ca370269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yoav_e.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/SNMP/snmp_file_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/get_bp_usage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/get_bp_usage/get_af_sandbox_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/get_bp_usage/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/get_bp_usage/try_in_pyapi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/get_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/loginner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/pip_install_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacks/steve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/Sandbox_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/adam_not_being_objective.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/create_azure_routing_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/decorator_test/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/exchange_rate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/idea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Misc/read_from_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Create_CS_user/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Create_CS_user/create_CS_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/Ticket 36419/rest_starter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/CentosDriver.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/TOSCA-Metadata/TOSCA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/docs/readme.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/shell-definition.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/shell-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/src/cloudshell_cli_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/src/debugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/src/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/src/drivermetadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/src/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/test_requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/centos-shell/tests/test_centos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/omni-logger/creds.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/omni-logger/omnilogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/omni-logger/rest_api_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/retrying_with_qslogger.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/retrying_with_qslogger.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/retrying_with_qslogger.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/retrying_with_qslogger.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/retrying_with_qslogger.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/dist/retrying_with_qslogger-0.0.12.tar.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_qslogger/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_qslogger/retrying_qslogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_with_qslogger.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_with_qslogger.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_with_qslogger.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_with_qslogger.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/retrying_with_qslogger.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retry_with_logger/source/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retryable_setup/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projects/retryable_setup/provisioning_override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/Azure_debugger/Azure_debugger_deploy_vm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/Azure_debugger/subnet_mass_deleter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/BT_set_multiple_attributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/count_all_vm_sizes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/db_airties_local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_live_airties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_local_orchestrator_override.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_change_password_on_apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_local_empty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_nbn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_sb_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_sb_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/debugger_sb_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/decrypt_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Debuggers/yet_another_debugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Sandbox _Setup_Change_Image/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Sandbox _Setup_Change_Image/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Sandbox _Setup_Change_Image/image_changer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Sandbox _Setup_Change_Image/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Sandbox _Setup_Change_Image/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/Sandbox_API/Sandbox_api_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/Sandbox_API/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/Sandbox_API/use_sandbox_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/DEBUG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/credentials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/first_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/helper_code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/helper_code/creds_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/helper_code/custom_helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/helper_code/thread_helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/helper_code/utility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_off_all_apps/update_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/DEBUG.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/credentials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/first_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/helper_code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/helper_code/creds_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/helper_code/custom_helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/helper_code/thread_helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/helper_code/utility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/blueprint script/power_on_all_apps/update_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_L1_connect_and_L2_config/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_L1_connect_and_L2_config/blueprint_commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_L1_connect_and_L2_config/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_L1_connect_and_L2_config/setup_with_L1_connect_only.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_run_ifconfig/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_run_ifconfig/blueprint_commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/orchestartion/Setup/setup_with_run_ifconfig/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Python Samples/automation api/shell/centos/src/cloudshell_cli_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/attach_rdp_to_sandbox/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/attach_rdp_to_sandbox/attach_to_reservation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/attach_rdp_to_sandbox/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/attach_rdp_to_sandbox/rdp_populator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/attach_rdp_to_sandbox/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/attach_to_reservation_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/change_abstract_via_package/cloudshell_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/change_abstract_via_package/rest_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/change_abstract_via_package/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shells/btdemo/src/homehub_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/all_sandbox_info.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/attach_to_reservation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/create_html_from_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_sandbox_info/update_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debuging/shaked.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/debuging/turn_yaml_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/cloudshell_cli_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/create_data_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/drivermetadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux-server/update_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Misc/exception_tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Setup_livestatus/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Setup_livestatus/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Setup_livestatus/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ShellFoundry/shellfoundry/shellfoundry/commands/mock_command.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/__main__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/debug.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/sample_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConfigParser/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigParser/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacks/Get_Activity_feed/get_activity_feed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacks/Get_Activity_feed/get_activity_feed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hacks/LemonTree/LemonTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Misc/decorator_test/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Misc/decorator_test/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Debuggers/Azure_debugger/Azure_debugger.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Debuggers/Azure_debugger/Azure_debugger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_check_execute.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_check_execute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_drivers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Debuggers/debug_with_session_drivers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/setup_with_L1_connect_and_L2_config/blueprint_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/setup_with_L1_connect_and_L2_config/blueprint_commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Samples/Orchestrations/Setups/setup_with_L1_connect_and_L2_config/setup_with_L1_connect_only.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shells/mynewfirewall/MynewfirewallDriver.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Shells/mynewfirewall/MynewfirewallDriver.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../allSandboxObjects/qs_cs_sandbox_extractor/sandbox_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../allSandboxObjects/qs_cs_sandbox_extractor/sandbox_extractor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../allSandboxObjects/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../allSandboxObjects/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../allSandboxObjects/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../allSandboxObjects/setup.py" afterDir="false" />
@@ -187,156 +35,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-576877396">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="22" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="6" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="5" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="3" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.35" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.56" value="1" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="11" />
-          <entry key="project.open.time.8" value="14" />
-          <entry key="project.open.time.9" value="14" />
-          <entry key="project.opened" value="80" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gitignore" value="3" />
-          <entry key="in" value="2" />
-          <entry key="ini" value="4" />
-          <entry key="ipynb" value="1" />
-          <entry key="json" value="10" />
-          <entry key="md" value="1" />
-          <entry key="meta" value="1" />
-          <entry key="png" value="4" />
-          <entry key="py" value="2513" />
-          <entry key="pyi" value="2" />
-          <entry key="rdp" value="1" />
-          <entry key="rst" value="1" />
-          <entry key="sh" value="8" />
-          <entry key="txt" value="185" />
-          <entry key="xml" value="17" />
-          <entry key="yaml" value="67" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Hoi4 file" value="184" />
-          <entry key="IPNB" value="1" />
-          <entry key="Image" value="4" />
-          <entry key="JSON" value="10" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="2513" />
-          <entry key="PythonStub" value="2" />
-          <entry key="ReST" value="1" />
-          <entry key="XML" value="17" />
-          <entry key="YAML" value="67" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="2373" />
-          <entry key="dummy" value="223" />
-          <entry key="gitignore" value="27" />
-          <entry key="ini" value="3" />
-          <entry key="json" value="130" />
-          <entry key="py" value="189132" />
-          <entry key="sh" value="17" />
-          <entry key="txt" value="747" />
-          <entry key="xml" value="2" />
-          <entry key="yaml" value="1538" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Hoi4 file" value="747" />
-          <entry key="JSON" value="130" />
-          <entry key="PLAIN_TEXT" value="270" />
-          <entry key="Python" value="191505" />
-          <entry key="XML" value="2" />
-          <entry key="YAML" value="1538" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/tools/clean_perf_log_skybox.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-396">
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/drivers/vsrx_v2/driver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="359" column="20" lean-forward="true" selection-start-line="359" selection-start-column="20" selection-end-line="359" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/email/src/email_templates/sandbox_error_report.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-756">
-              <folding>
-                <element signature="e#0#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/email/src/driver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="75" column="35" lean-forward="true" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -345,217 +43,29 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>set_ip</find>
-      <find>_conve</find>
-      <find>securit</find>
-      <find>create_a</find>
-      <find>defin</find>
-      <find>first</find>
-      <find>Print_vm</find>
-      <find>cha</find>
-      <find>githubuser</find>
-      <find>git</find>
-      <find>defi</find>
-      <find>get_de</find>
-      <find>get_def</find>
-      <find>res_id</find>
-      <find>githubusercontent</find>
-      <find>route</find>
-      <find>print_vm</find>
-      <find>power</find>
-      <find>add_routing</find>
-      <find>nx1</find>
-      <find>root</find>
-      <find>change_user_pass</find>
-      <find>add</find>
-      <find>add_ips</find>
-      <find>descr</find>
-      <find>security</find>
-      <find>ssh_to</find>
-      <find>enabl</find>
-      <find>enable_</find>
-      <find>parse_con</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>warn</replace>
-      <replace>printOutput=False</replace>
-      <replace>self.logger.error(</replace>
-      <replace>self.logger.info(</replace>
-      <replace>}</replace>
-      <replace>DMZ_Server_Farm</replace>
-      <replace>Clients</replace>
-      <replace>App_DB_Transit</replace>
-      <replace>VnetLocal</replace>
-      <replace>DMZ</replace>
-      <replace>CP_SRX_Transit</replace>
-      <replace>Web_Dev_Transit</replace>
-      <replace>CSR_Transit</replace>
-      <replace>Web_App</replace>
-      <replace>Dev</replace>
-      <replace>Checkpoint_Web_Private</replace>
-      <replace>set_static_bool</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>E:\Github\Quali\ScriptsRepositoryYoav</dir>
-      <dir>E:\Github\Quali\customers\Skybox\Skybox\drivers\vsrx_driver_v2_roni</dir>
-      <dir>C:\Python27\Lib\site-packages\cloudshell_cp_azure-1.8.0-py2.7.egg-info</dir>
-      <dir>E:\Github\Quali\customers\LGI\Customer-Liberty-Global\vm-deployment-ansible\src</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global" />
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ConfigParser" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/vm-deployment-ansible/src/linux/commands.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/vm-deployment-ansible/src/ansible/management.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/vm-deployment-ansible/src/ansible/infrastructure.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/vm-deployment-ansible/shell-definition.yaml" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_teardown/__main__.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/vm-deployment-ansible/src/requirements.txt" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/vm-deployment-ansible/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/power_off_all_apps/helper_code/custom_helpers.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/power_on_all_apps/helper_code/custom_helpers.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/requirements.txt" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/email_details.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/newEmail.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/email_templates/sandbox_about_to_end.py" />
-        <option value="$PROJECT_DIR$/debuging/turn_yaml_json.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_setup/blueprint_commands.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_setup/__main__.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/sandbox_checker/enforce_uptime.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/configure_fortigates.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/email/src/email_templates/new_user_created.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/email/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxTeardown/panorama_cleanup.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/asa-virtual/src/cloudshell_cli_handler.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/asa-virtual/src/requirements.txt" />
-        <option value="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/debug.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/tools/clean_perf_log_skybox.py" />
-        <option value="$PROJECT_DIR$/Shells/mynewfirewall/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/get_configuration_data.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/debug.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/add_all_routes.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/provisioning_override.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/__main__.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/driver.py" />
-        <option value="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py" />
-        <option value="$PROJECT_DIR$/../ConfigParser/setup.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/blueprint_commands.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/shell-definition.yaml" />
-        <option value="$PROJECT_DIR$/Samples/Debuggers/BT_set_multiple_attributes.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/ansible/execution.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/ansible/management.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/linux/commands.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/generic_template.py" />
-        <option value="$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove/AzuresupplementcommandsDriver/generic_template.py" />
-        <option value="$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove/azuresupplementcommands/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/change_hosts_file/change_hosts.py" />
-        <option value="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/shell/centos/src/requirements.txt" />
-        <option value="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/shell/centos/src/driver.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_teardown/teardown_extra_commands.py" />
-        <option value="$PROJECT_DIR$/Samples/Create_resources/create_CPEs.py" />
-        <option value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/email_templates/sandbox_created.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-174" />
-    <option name="y" value="209" />
-    <option name="width" value="1920" />
-    <option name="height" value="1035" />
-  </component>
+  <component name="ProjectId" id="1PJYrFLwdN1tc5MdtysTLclD5rk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-              <item name="vsrx_v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="shells" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="shells" type="462c0819:PsiDirectoryNode" />
-              <item name="email" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="shells" type="462c0819:PsiDirectoryNode" />
-              <item name="email" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScriptsRepositoryYoav" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="Skybox" type="462c0819:PsiDirectoryNode" />
-              <item name="shells" type="462c0819:PsiDirectoryNode" />
-              <item name="email" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="email_templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="cloud&#9;null&#9;null&#10;add_windows_client_to_domain&#9;FILE&#9;file://E:/Github/Quali/customers/Skybox/Skybox/scripts/add_windows_client_to_domain&#10;remove_dns_hosts_from_dc_res&#9;FILE&#9;file://E:/Github/Quali/customers/Skybox/Skybox/scripts/remove_dns_hosts_from_dc_res&#10;retrying&#9;FILE&#9;file://C:/Python27/Lib/site-packages/cloudshell/cp/azure/common/helpers/retrying_helpers.py&#10;self.logger&#9;null&#9;null&#10;create_route_table&#9;null&#9;null&#10;vmDetails&#9;null&#9;null&#10;autoload_operation.py&#9;FILE&#9;file://C:/Python27/Lib/site-packages/cloudshell/cp/azure/domain/vm_management/operations/autoload_operation.py&#10;market_pla&#9;null&#9;null&#10;sandbox.[a&#9;FILE&#9;file://C:/Python27/Lib/site-packages/cloudshell/workflow/orchestration/sandbox.py&#10;addprepara&#9;null&#9;null&#10;cloudshell_api&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Samples/Orchestrations/Setups" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Samples\Orchestrations\Setups" />
+      <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\scripts\workspace_refresh" />
+      <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\scripts\debug" />
       <recent name="E:\Github\Quali\customers\Skybox\Skybox\shells\email\src\email_templates" />
       <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\scripts" />
-      <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\vm-deployment-ansible\src" />
-      <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\Shells" />
-      <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\orchestration\vm_teardown" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\Shells" />
@@ -577,7 +87,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.clean_perf_log_skybox">
+  <component name="RunManager" selected="Python.exception_tester">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Azuresupplementcommands_before_security_remove" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="clean_perf_log_skybox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Skybox" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -599,40 +130,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="debug (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Skybox" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/debug.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ConfigParser" />
+      <module name="Customer-Liberty-Global" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/workspace_refresh" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/debug.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/workspace_refresh/debug.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -641,19 +151,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_password" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ScriptsRepositoryYoav" />
+    <configuration name="debug_with_session_live_lg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Customer-Liberty-Global" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/debug" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacks/get_password.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/debug/debug_with_session_live_lg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -662,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turn_yaml_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exception_tester" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ScriptsRepositoryYoav" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -670,33 +180,97 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/debuging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Misc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/debuging/turn_yaml_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Misc/exception_tester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="files_dev_cloudshell_uim_group_sync" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Customer-Liberty-Global" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/LDAP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/LDAP/files_dev_cloudshell_uim_group_sync.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Azuresupplementcommands_before_security_remove" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Azuresupplementcommands_before_security_remove" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Azuresupplementcommands_before_security_remove" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.get_password" />
-      <item itemvalue="Python.turn_yaml_json" />
+      <item itemvalue="Python.debug_with_session_live_lg" />
+      <item itemvalue="Python.files_dev_cloudshell_uim_group_sync" />
       <item itemvalue="Python.debug" />
       <item itemvalue="Python.clean_perf_log_skybox" />
-      <item itemvalue="Python.debug (1)" />
+      <item itemvalue="Python.exception_tester" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exception_tester" />
         <item itemvalue="Python.clean_perf_log_skybox" />
-        <item itemvalue="Python.debug (1)" />
         <item itemvalue="Python.debug" />
-        <item itemvalue="Python.turn_yaml_json" />
-        <item itemvalue="Python.get_password" />
+        <item itemvalue="Python.debug_with_session_live_lg" />
+        <item itemvalue="Python.files_dev_cloudshell_uim_group_sync" />
       </list>
     </recent_temporary>
   </component>
@@ -713,50 +287,18 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21338251" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.36008677" />
-      <window_info anchor="bottom" x="2341" y="232" width="1217" height="689" id="Debug" order="3" type="WINDOWED" weight="0.45444685" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946865" weight="0.26789588" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005314" side_tool="true" weight="0.33259913" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21338251" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.36008677" />
-      <window_info anchor="bottom" x="2341" y="232" width="1217" height="689" id="Debug" order="3" type="WINDOWED" weight="0.45444685" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946865" weight="0.26789588" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005314" side_tool="true" weight="0.33259913" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1067,11 +609,6 @@
           <option name="timeStamp" value="615" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/update_setup_package.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="617" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../customers/Airties/Customer-Airties/SnqAPI/snqapi.py</url>
           <line>103</line>
           <option name="timeStamp" value="620" />
@@ -1222,14 +759,23 @@
           <option name="timeStamp" value="760" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/driver.py</url>
-          <line>214</line>
-          <option name="timeStamp" value="761" />
+          <url>file://$PROJECT_DIR$/../customers/Airties/Customer-Airties/QA/find used clients/find_testhouse_clients.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="763" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/linux/commands.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="762" />
+          <url>file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/debug/debug_with_session_live_lg.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="767" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weather.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="768" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/debug/debug_with_session_live_lg.py</url>
+          <option name="timeStamp" value="782" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1266,340 +812,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://C:/Python27/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23936">
-          <caret line="1118" column="6" selection-start-line="1118" selection-start-column="6" selection-end-line="1118" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/core/logger/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/core/logger/qs_logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="167" column="23" selection-start-line="167" selection-start-column="23" selection-end-line="167" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/qs_cs_config_parser/parse_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3102">
-          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/get_configuration_data.py" />
-    <entry file="file://C:/Python27/Lib/site-packages/cloudshell/workflow/orchestration/setup/default_setup_orchestrator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/provisioning_override.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/add_all_routes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="199" column="46" lean-forward="true" selection-start-line="199" selection-start-column="46" selection-end-line="199" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/drivers/skybox-server/cloudshell_cli_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="86" selection-start-line="35" selection-start-column="86" selection-end-line="35" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/drivers/skybox-server/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="175" column="42" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/shell-definition.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ConfigParser/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Samples/Debuggers/debug_with_session_live.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Samples/Debuggers/debug_with_session_empty.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="43" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Samples/Debuggers/BT_set_multiple_attributes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/linux/bash.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_setup/blueprint_commands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/linux/execution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/ansible/execution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/ansible/management.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/linux/commands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/change_sec_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove/AzuresupplementcommandsDriver/generic_template.py" />
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/configure_checkpoints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="162" column="37" selection-start-line="162" selection-start-column="37" selection-end-line="162" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/checkpoint-gateway/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/generic_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Azuresupplementcommands_before_security_remove/azuresupplementcommands/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="130" column="135" selection-start-line="130" selection-start-column="109" selection-end-line="130" selection-end-column="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="147" column="51" selection-start-line="147" selection-start-column="51" selection-end-line="147" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/orchestration/SkyBoxSetup_V_1_2_1/blueprint_commands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="146" column="17" selection-start-line="146" selection-start-column="17" selection-end-line="146" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/change_hosts_file/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/all_sandbox_info/attach_to_reservation.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/scripts/change_hosts_file/change_hosts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/shell/centos/shell-definition.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/shell/centos/deployment.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/shell/centos/src/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/shell/centos/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_teardown/__main__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_teardown/teardown_extra_commands.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Samples/Create_resources/create_CPEs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/panorama/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="431" column="52" selection-start-line="431" selection-start-column="52" selection-end-line="431" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/vm-deployment-ansible/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="204" column="17" selection-start-line="204" selection-start-column="17" selection-end-line="204" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/email_details.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/email_templates/sandbox_created.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="84" column="51" selection-start-line="84" selection-start-column="51" selection-end-line="84" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/Shells/email/src/newEmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/email/src/email_templates/sandbox_error_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756">
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/email/src/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="75" column="35" lean-forward="true" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#83#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/tools/clean_perf_log_skybox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../customers/Skybox/Skybox/drivers/vsrx_v2/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="359" column="20" lean-forward="true" selection-start-line="359" selection-start-column="20" selection-end-line="359" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
