@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f371bdee-e1eb-4f0e-b275-7375ca370269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Misc/exception_tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Setup_livestatus/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Setup_livestatus/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samples/Orchestrations/Setups/Setup_livestatus/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/centos_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/cloudshell_cli_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/create_data_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/drivermetadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-server-script/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ShellFoundry/shellfoundry/shellfoundry/commands/mock_command.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/__main__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/debug.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../customers/Customer-BT-VPN/Python Samples/automation api/resource script/sample_script_input/sample_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ScriptsRepositoryYoav.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ConfigParser/qs_cs_config_parser/parse_config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../allSandboxObjects/qs_cs_sandbox_extractor/sandbox_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../allSandboxObjects/qs_cs_sandbox_extractor/sandbox_extractor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../allSandboxObjects/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../allSandboxObjects/requirements.txt" afterDir="false" />
@@ -44,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ConfigParser" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1PJYrFLwdN1tc5MdtysTLclD5rk" />
@@ -54,18 +56,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="cloud&#9;null&#9;null&#10;add_windows_client_to_domain&#9;FILE&#9;file://E:/Github/Quali/customers/Skybox/Skybox/scripts/add_windows_client_to_domain&#10;remove_dns_hosts_from_dc_res&#9;FILE&#9;file://E:/Github/Quali/customers/Skybox/Skybox/scripts/remove_dns_hosts_from_dc_res&#10;retrying&#9;FILE&#9;file://C:/Python27/Lib/site-packages/cloudshell/cp/azure/common/helpers/retrying_helpers.py&#10;self.logger&#9;null&#9;null&#10;create_route_table&#9;null&#9;null&#10;vmDetails&#9;null&#9;null&#10;autoload_operation.py&#9;FILE&#9;file://C:/Python27/Lib/site-packages/cloudshell/cp/azure/domain/vm_management/operations/autoload_operation.py&#10;market_pla&#9;null&#9;null&#10;sandbox.[a&#9;FILE&#9;file://C:/Python27/Lib/site-packages/cloudshell/workflow/orchestration/sandbox.py&#10;addprepara&#9;null&#9;null&#10;cloudshell_api&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Samples/Orchestrations/Setups" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../customers/Skybox-jsons/SkyboxDataFiles" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\Quali\ScriptsRepositoryYoav" />
       <recent name="E:\Github\Quali\ScriptsRepositoryYoav\Samples\Orchestrations\Setups" />
       <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\scripts\workspace_refresh" />
       <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\scripts\debug" />
       <recent name="E:\Github\Quali\customers\Skybox\Skybox\shells\email\src\email_templates" />
-      <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\scripts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Github\Quali\customers\LGI\Customer-Liberty-Global\Shells" />
@@ -87,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exception_tester">
+  <component name="RunManager" selected="Python.debug (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Azuresupplementcommands_before_security_remove" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +124,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/Skybox/Skybox/tools/clean_perf_log_skybox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debug (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Customer-Liberty-Global" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_setup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_setup/debug.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,27 +216,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files_dev_cloudshell_uim_group_sync" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Customer-Liberty-Global" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/LDAP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/LDAP/files_dev_cloudshell_uim_group_sync.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="Azuresupplementcommands_before_security_remove" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,18 +261,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.debug_with_session_live_lg" />
-      <item itemvalue="Python.files_dev_cloudshell_uim_group_sync" />
       <item itemvalue="Python.debug" />
       <item itemvalue="Python.clean_perf_log_skybox" />
       <item itemvalue="Python.exception_tester" />
+      <item itemvalue="Python.debug (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.debug (1)" />
         <item itemvalue="Python.exception_tester" />
         <item itemvalue="Python.clean_perf_log_skybox" />
         <item itemvalue="Python.debug" />
         <item itemvalue="Python.debug_with_session_live_lg" />
-        <item itemvalue="Python.files_dev_cloudshell_uim_group_sync" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +497,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../customers/Skybox/Skybox/shells/azuresupplementcommands/src/debug.py</url>
-          <line>39</line>
+          <line>41</line>
           <option name="timeStamp" value="293" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -776,6 +778,16 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/scripts/debug/debug_with_session_live_lg.py</url>
           <option name="timeStamp" value="782" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linux-server-script/centos_driver.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../customers/LGI/Customer-Liberty-Global/orchestration/vm_setup/debug.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="785" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
