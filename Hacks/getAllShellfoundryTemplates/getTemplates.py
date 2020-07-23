@@ -37,7 +37,7 @@ class getallshellfoundrytemplates():
                 repos.append(repo)
         template_repos = [repo for repo in repos if (repo.get('name').__contains__('tosca') and repo.get('name').__contains__('shellfoundry') or repo.get('name').__contains__('shell-L1-template') )]
         for temp in template_repos:
-            zip_url = temp.get('url') + '/zipball/master'
+            zip_url = temp.get('url') + '/zipball/main'
             self.verify_dir(self.config_data.get('configuration').get('local_folder'))
             self.download_file(
                 url=zip_url,
