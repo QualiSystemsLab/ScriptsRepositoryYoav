@@ -1,4 +1,4 @@
-import outlook_master.outlook as outlook
+import outlook_main.outlook as outlook
 import json
 class sandbox():
     def __init__(self, id):
